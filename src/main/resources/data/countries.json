@@ -1,0 +1,5777 @@
+[
+  {
+    "name": "Afghanistan",
+    "nativeName": "افغانستان",
+    "capital": "Kabul",
+    "region": "Southern and Central Asia",
+    "continent": "ASIA",
+    "abbreviation": "AF",
+    "currency": "Afghanistan Afghani",
+    "currencyCode": "AFN",
+    "callingCode": 93,
+    "languages": [
+      "Pashto",
+      "Uzbek",
+      "Turkmen"
+    ],
+    "population": 37172386,
+    "yearlyAverageTemperature": 12,
+    "flag": "",
+    "emoji": "\uD83C\uDDE6\uD83C\uDDEB",
+    "emojiU": "U+1F1E6 U+1F1EB",
+    "capitalGeolocation": {
+      "lat": 34.5553494,
+      "lng": 69.207486
+    }
+  },
+  {
+    "name": "Albania",
+    "nativeName": "Shqipëria",
+    "capital": "Tirana",
+    "region": "Southern Europe",
+    "continent": "EUROPE",
+    "abbreviation": "AL",
+    "currency": "Albanian Lek",
+    "currencyCode": "ALL",
+    "callingCode": 355,
+    "languages": [
+      "Albanian"
+    ],
+    "population": 2866376,
+    "yearlyAverageTemperature": 11,
+    "flag": "",
+    "emoji": "\uD83C\uDDE6\uD83C\uDDF1",
+    "emojiU": "U+1F1E6 U+1F1F1",
+    "capitalGeolocation": {
+      "lat": 41.3275459,
+      "lng": 19.8186982
+    }
+  },
+  {
+    "name": "Algeria",
+    "nativeName": "الجزائر",
+    "capital": "Alger",
+    "region": "Northern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "DZ",
+    "currency": "Algerian Dinar",
+    "currencyCode": "DZD",
+    "callingCode": 213,
+    "languages": [
+      "Arabic"
+    ],
+    "population": 42228429,
+    "yearlyAverageTemperature": 22,
+    "flag": "",
+    "emoji": "\uD83C\uDDE9\uD83C\uDDFF",
+    "emojiU": "U+1F1E9 U+1F1FF",
+    "capitalGeolocation": {
+      "lat": 36.752887,
+      "lng": 3.042048
+    }
+  },
+  {
+    "name": "American Samoa",
+    "nativeName": "American Samoa",
+    "capital": "Fagatogo",
+    "region": "Polynesia",
+    "continent": "OCEANIA",
+    "abbreviation": "AS",
+    "currency": "US Dollar",
+    "currencyCode": "USD",
+    "callingCode": 1684,
+    "languages": [
+      "English",
+      "Samoan"
+    ],
+    "population": 55465,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDE6\uD83C\uDDF8",
+    "emojiU": "U+1F1E6 U+1F1F8",
+    "capitalGeolocation": {
+      "lat": -14.2756319,
+      "lng": -170.7020359
+    }
+  },
+  {
+    "name": "Andorra",
+    "nativeName": "Andorra",
+    "capital": "Andorra la Vella",
+    "region": "Southern Europe",
+    "continent": "EUROPE",
+    "abbreviation": "AD",
+    "currency": "Euro",
+    "currencyCode": "EUR",
+    "callingCode": 376,
+    "languages": [
+      "Catalan"
+    ],
+    "population": 77006,
+    "yearlyAverageTemperature": 7,
+    "flag": "",
+    "emoji": "\uD83C\uDDE6\uD83C\uDDE9",
+    "emojiU": "U+1F1E6 U+1F1E9",
+    "capitalGeolocation": {
+      "lat": 42.50631740000001,
+      "lng": 1.5218355
+    }
+  },
+  {
+    "name": "Angola",
+    "nativeName": "Angola",
+    "capital": "Luanda",
+    "region": "Central Africa",
+    "continent": "AFRICA",
+    "abbreviation": "AO",
+    "currency": "Angolan Kwanza",
+    "currencyCode": "AOA",
+    "callingCode": 244,
+    "languages": [
+      "Portuguese"
+    ],
+    "population": 30809762,
+    "yearlyAverageTemperature": 21,
+    "flag": "",
+    "emoji": "\uD83C\uDDE6\uD83C\uDDF4",
+    "emojiU": "U+1F1E6 U+1F1F4",
+    "capitalGeolocation": {
+      "lat": -8.839987599999999,
+      "lng": 13.2894368
+    }
+  },
+  {
+    "name": "Anguilla",
+    "nativeName": "Anguilla",
+    "capital": "The Valley",
+    "region": "Caribbean",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "AI",
+    "currency": "East Caribbean Dollar",
+    "currencyCode": "XCD",
+    "callingCode": 1264,
+    "languages": [
+      "English"
+    ],
+    "population": 15094,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDE6\uD83C\uDDEE",
+    "emojiU": "U+1F1E6 U+1F1EE",
+    "capitalGeolocation": {
+      "lat": 18.2148129,
+      "lng": -63.0574406
+    }
+  },
+  {
+    "name": "Antarctica",
+    "nativeName": "Antarctica",
+    "capital": null,
+    "region": "Antarctica",
+    "continent": "ANTARCTICA",
+    "abbreviation": "AQ",
+    "currency": "East Caribbean Dollar",
+    "currencyCode": "XCD",
+    "callingCode": 672,
+    "languages": [],
+    "population": 1106,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDE6\uD83C\uDDF6",
+    "emojiU": "U+1F1E6 U+1F1F6",
+    "capitalGeolocation": null
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "nativeName": "Antigua and Barbuda",
+    "capital": "Saint John's",
+    "region": "Caribbean",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "AG",
+    "currency": "East Caribbean Dollar",
+    "currencyCode": "XCD",
+    "callingCode": 1268,
+    "languages": [
+      "English"
+    ],
+    "population": 96286,
+    "yearlyAverageTemperature": 26,
+    "flag": "",
+    "emoji": "\uD83C\uDDE6\uD83C\uDDEC",
+    "emojiU": "U+1F1E6 U+1F1EC",
+    "capitalGeolocation": {
+      "lat": 17.1274104,
+      "lng": -61.84677199999999
+    }
+  },
+  {
+    "name": "Argentina",
+    "nativeName": "Argentina",
+    "capital": "Buenos Aires",
+    "region": "South America",
+    "continent": "SOUTH_AMERICA",
+    "abbreviation": "AR",
+    "currency": "Argentine Peso",
+    "currencyCode": "ARS",
+    "callingCode": 54,
+    "languages": [
+      "Guarani",
+      "Spanish"
+    ],
+    "population": 44494502,
+    "yearlyAverageTemperature": 14,
+    "flag": "",
+    "emoji": "\uD83C\uDDE6\uD83C\uDDF7",
+    "emojiU": "U+1F1E6 U+1F1F7",
+    "capitalGeolocation": {
+      "lat": -34.6036844,
+      "lng": -58.3815591
+    }
+  },
+  {
+    "name": "Armenia",
+    "nativeName": "Հայաստան",
+    "capital": "Yerevan",
+    "region": "Middle East",
+    "continent": "ASIA",
+    "abbreviation": "AM",
+    "currency": "Armenian Dram",
+    "currencyCode": "AMD",
+    "callingCode": 374,
+    "languages": [
+      "Russian",
+      "Armenian"
+    ],
+    "population": 2951776,
+    "yearlyAverageTemperature": 7,
+    "flag": "",
+    "emoji": "\uD83C\uDDE6\uD83C\uDDF2",
+    "emojiU": "U+1F1E6 U+1F1F2",
+    "capitalGeolocation": {
+      "lat": 40.1791857,
+      "lng": 44.4991029
+    }
+  },
+  {
+    "name": "Aruba",
+    "nativeName": "Aruba",
+    "capital": "Oranjestad",
+    "region": "Caribbean",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "AW",
+    "currency": "Aruban Guilder",
+    "currencyCode": "AWG",
+    "callingCode": 297,
+    "languages": [
+      "Panjabi / Punjabi",
+      "Dutch"
+    ],
+    "population": 105845,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDE6\uD83C\uDDFC",
+    "emojiU": "U+1F1E6 U+1F1FC",
+    "capitalGeolocation": {
+      "lat": 12.5092044,
+      "lng": -70.0086306
+    }
+  },
+  {
+    "name": "Australia",
+    "nativeName": "Australia",
+    "capital": "Canberra",
+    "region": "Australia and New Zealand",
+    "continent": "OCEANIA",
+    "abbreviation": "AU",
+    "currency": "Australian Dollar",
+    "currencyCode": "AUD",
+    "callingCode": 61,
+    "languages": [
+      "English"
+    ],
+    "population": 24982688,
+    "yearlyAverageTemperature": 21,
+    "flag": "",
+    "emoji": "\uD83C\uDDE6\uD83C\uDDFA",
+    "emojiU": "U+1F1E6 U+1F1FA",
+    "capitalGeolocation": {
+      "lat": -35.2819998,
+      "lng": 149.1286843
+    }
+  },
+  {
+    "name": "Austria",
+    "nativeName": "Österreich",
+    "capital": "Wien",
+    "region": "Western Europe",
+    "continent": "EUROPE",
+    "abbreviation": "AT",
+    "currency": "Euro",
+    "currencyCode": "EUR",
+    "callingCode": 43,
+    "languages": [
+      "German"
+    ],
+    "population": 8840521,
+    "yearlyAverageTemperature": 6,
+    "flag": "",
+    "emoji": "\uD83C\uDDE6\uD83C\uDDF9",
+    "emojiU": "U+1F1E6 U+1F1F9",
+    "capitalGeolocation": {
+      "lat": 48.2081743,
+      "lng": 16.3738189
+    }
+  },
+  {
+    "name": "Azerbaijan",
+    "nativeName": "Azərbaycan",
+    "capital": "Baku",
+    "region": "Middle East",
+    "continent": "ASIA",
+    "abbreviation": "AZ",
+    "currency": "Azerbaijan New Manat",
+    "currencyCode": "AZN",
+    "callingCode": 994,
+    "languages": [
+      "Azerbaijani"
+    ],
+    "population": 9939800,
+    "yearlyAverageTemperature": 11,
+    "flag": "",
+    "emoji": "\uD83C\uDDE6\uD83C\uDDFF",
+    "emojiU": "U+1F1E6 U+1F1FF",
+    "capitalGeolocation": {
+      "lat": 40.40926169999999,
+      "lng": 49.8670924
+    }
+  },
+  {
+    "name": "Bahamas",
+    "nativeName": "Bahamas",
+    "capital": "Nassau",
+    "region": "Caribbean",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "BS",
+    "currency": "Bahamian Dollar",
+    "currencyCode": "BSD",
+    "callingCode": 1242,
+    "languages": [
+      "English"
+    ],
+    "population": 385640,
+    "yearlyAverageTemperature": 24,
+    "flag": "",
+    "emoji": "\uD83C\uDDE7\uD83C\uDDF8",
+    "emojiU": "U+1F1E7 U+1F1F8",
+    "capitalGeolocation": {
+      "lat": 25.0479835,
+      "lng": -77.355413
+    }
+  },
+  {
+    "name": "Bahrain",
+    "nativeName": "‏البحرين",
+    "capital": "al-Manama",
+    "region": "Middle East",
+    "continent": "ASIA",
+    "abbreviation": "BH",
+    "currency": "Bahraini Dinar",
+    "currencyCode": "BHD",
+    "callingCode": 973,
+    "languages": [
+      "Arabic"
+    ],
+    "population": 1569439,
+    "yearlyAverageTemperature": 27,
+    "flag": "",
+    "emoji": "\uD83C\uDDE7\uD83C\uDDED",
+    "emojiU": "U+1F1E7 U+1F1ED",
+    "capitalGeolocation": {
+      "lat": 26.2285161,
+      "lng": 50.5860497
+    }
+  },
+  {
+    "name": "Bangladesh",
+    "nativeName": "Bangladesh",
+    "capital": "Dhaka",
+    "region": "Southern and Central Asia",
+    "continent": "ASIA",
+    "abbreviation": "BD",
+    "currency": "Bangladeshi Taka",
+    "currencyCode": "BDT",
+    "callingCode": 880,
+    "languages": [
+      "Bengali"
+    ],
+    "population": 161356039,
+    "yearlyAverageTemperature": 25,
+    "flag": "",
+    "emoji": "\uD83C\uDDE7\uD83C\uDDE9",
+    "emojiU": "U+1F1E7 U+1F1E9",
+    "capitalGeolocation": {
+      "lat": 23.810332,
+      "lng": 90.4125181
+    }
+  },
+  {
+    "name": "Barbados",
+    "nativeName": "Barbados",
+    "capital": "Bridgetown",
+    "region": "Caribbean",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "BB",
+    "currency": "Barbados Dollar",
+    "currencyCode": "BBD",
+    "callingCode": 1246,
+    "languages": [
+      "English"
+    ],
+    "population": 286641,
+    "yearlyAverageTemperature": 26,
+    "flag": "",
+    "emoji": "\uD83C\uDDE7\uD83C\uDDE7",
+    "emojiU": "U+1F1E7 U+1F1E7",
+    "capitalGeolocation": {
+      "lat": 13.1132219,
+      "lng": -59.59880889999999
+    }
+  },
+  {
+    "name": "Belarus",
+    "nativeName": "Белару́сь",
+    "capital": "Minsk",
+    "region": "Eastern Europe",
+    "continent": "EUROPE",
+    "abbreviation": "BY",
+    "currency": "Belarussian Ruble",
+    "currencyCode": "BYR",
+    "callingCode": 375,
+    "languages": [
+      "Russian",
+      "Belarusian"
+    ],
+    "population": 9483499,
+    "yearlyAverageTemperature": 6,
+    "flag": "",
+    "emoji": "\uD83C\uDDE7\uD83C\uDDFE",
+    "emojiU": "U+1F1E7 U+1F1FE",
+    "capitalGeolocation": {
+      "lat": 53.90453979999999,
+      "lng": 27.5615244
+    }
+  },
+  {
+    "name": "Belgium",
+    "nativeName": "België",
+    "capital": "Bruxelles [Brussel]",
+    "region": "Western Europe",
+    "continent": "EUROPE",
+    "abbreviation": "BE",
+    "currency": "Euro",
+    "currencyCode": "EUR",
+    "callingCode": 32,
+    "languages": [
+      "French",
+      "German",
+      "Dutch"
+    ],
+    "population": 11433256,
+    "yearlyAverageTemperature": 9,
+    "flag": "",
+    "emoji": "\uD83C\uDDE7\uD83C\uDDEA",
+    "emojiU": "U+1F1E7 U+1F1EA",
+    "capitalGeolocation": {
+      "lat": 50.8503396,
+      "lng": 4.3517103
+    }
+  },
+  {
+    "name": "Belize",
+    "nativeName": "Belize",
+    "capital": "Belmopan",
+    "region": "Central America",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "BZ",
+    "currency": "Belize Dollar",
+    "currencyCode": "BZD",
+    "callingCode": 501,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "population": 383071,
+    "yearlyAverageTemperature": 25,
+    "flag": "",
+    "emoji": "\uD83C\uDDE7\uD83C\uDDFF",
+    "emojiU": "U+1F1E7 U+1F1FF",
+    "capitalGeolocation": {
+      "lat": 17.2510114,
+      "lng": -88.7590201
+    }
+  },
+  {
+    "name": "Benin",
+    "nativeName": "Bénin",
+    "capital": "Porto-Novo",
+    "region": "Western Africa",
+    "continent": "AFRICA",
+    "abbreviation": "BJ",
+    "currency": "CFA Franc BCEAO",
+    "currencyCode": "XOF",
+    "callingCode": 229,
+    "languages": [
+      "French"
+    ],
+    "population": 11485048,
+    "yearlyAverageTemperature": 27,
+    "flag": "",
+    "emoji": "\uD83C\uDDE7\uD83C\uDDEF",
+    "emojiU": "U+1F1E7 U+1F1EF",
+    "capitalGeolocation": {
+      "lat": 6.4968574,
+      "lng": 2.6288523
+    }
+  },
+  {
+    "name": "Bermuda",
+    "nativeName": "Bermuda",
+    "capital": "Hamilton",
+    "region": "North America",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "BM",
+    "currency": "Bermudian Dollar",
+    "currencyCode": "BMD",
+    "callingCode": 1441,
+    "languages": [
+      "English"
+    ],
+    "population": 63973,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDE7\uD83C\uDDF2",
+    "emojiU": "U+1F1E7 U+1F1F2",
+    "capitalGeolocation": {
+      "lat": 32.294816,
+      "lng": -64.781375
+    }
+  },
+  {
+    "name": "Bhutan",
+    "nativeName": "ʼbrug-yul",
+    "capital": "Thimphu",
+    "region": "Southern and Central Asia",
+    "continent": "ASIA",
+    "abbreviation": "BT",
+    "currency": "Bhutan Ngultrum",
+    "currencyCode": "BTN",
+    "callingCode": 975,
+    "languages": [
+      "Dzongkha"
+    ],
+    "population": 754394,
+    "yearlyAverageTemperature": 7,
+    "flag": "",
+    "emoji": "\uD83C\uDDE7\uD83C\uDDF9",
+    "emojiU": "U+1F1E7 U+1F1F9",
+    "capitalGeolocation": {
+      "lat": 27.4727924,
+      "lng": 89.6392863
+    }
+  },
+  {
+    "name": "Bolivia",
+    "nativeName": "Bolivia",
+    "capital": "La Paz",
+    "region": "South America",
+    "continent": "SOUTH_AMERICA",
+    "abbreviation": "BO",
+    "currency": "Boliviano",
+    "currencyCode": "BOB",
+    "callingCode": 591,
+    "languages": [
+      "Spanish",
+      "Aymara",
+      "Quechua"
+    ],
+    "population": 11353142,
+    "yearlyAverageTemperature": 21,
+    "flag": "",
+    "emoji": "\uD83C\uDDE7\uD83C\uDDF4",
+    "emojiU": "U+1F1E7 U+1F1F4",
+    "capitalGeolocation": {
+      "lat": -19.0195852,
+      "lng": -65.2619615
+    }
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "nativeName": "Bosna i Hercegovina",
+    "capital": "Sarajevo",
+    "region": "Southern Europe",
+    "continent": "EUROPE",
+    "abbreviation": "BA",
+    "currency": null,
+    "currencyCode": "BAM",
+    "callingCode": 387,
+    "languages": [
+      "Bosnian",
+      "Serbian",
+      "Croatian"
+    ],
+    "population": 3323929,
+    "yearlyAverageTemperature": 9,
+    "flag": "",
+    "emoji": "\uD83C\uDDE7\uD83C\uDDE6",
+    "emojiU": "U+1F1E7 U+1F1E6",
+    "capitalGeolocation": {
+      "lat": 43.8562586,
+      "lng": 18.4130763
+    }
+  },
+  {
+    "name": "Botswana",
+    "nativeName": "Botswana",
+    "capital": "Gaborone",
+    "region": "Southern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "BW",
+    "currency": "Botswana Pula",
+    "currencyCode": "BWP",
+    "callingCode": 267,
+    "languages": [
+      "English",
+      "Tswana"
+    ],
+    "population": 2254126,
+    "yearlyAverageTemperature": 21,
+    "flag": "",
+    "emoji": "\uD83C\uDDE7\uD83C\uDDFC",
+    "emojiU": "U+1F1E7 U+1F1FC",
+    "capitalGeolocation": {
+      "lat": -24.6282079,
+      "lng": 25.9231471
+    }
+  },
+  {
+    "name": "Bouvet Island",
+    "nativeName": "Bouvetøya",
+    "capital": null,
+    "region": "Antarctica",
+    "continent": "ANTARCTICA",
+    "abbreviation": "BV",
+    "currency": "Norwegian Krone",
+    "currencyCode": "NOK",
+    "callingCode": 55,
+    "languages": [
+      "Norwegian Bokmål",
+      "Norwegian Nynorsk",
+      "Norwegian"
+    ],
+    "population": 0,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDE7\uD83C\uDDFB",
+    "emojiU": "U+1F1E7 U+1F1FB",
+    "capitalGeolocation": {
+      "lat": -54.423199,
+      "lng": 3.413194
+    }
+  },
+  {
+    "name": "Brazil",
+    "nativeName": "Brasil",
+    "capital": "Brasília",
+    "region": "South America",
+    "continent": "SOUTH_AMERICA",
+    "abbreviation": "BR",
+    "currency": "Brazilian Real",
+    "currencyCode": "BRL",
+    "callingCode": 55,
+    "languages": [
+      "Portuguese"
+    ],
+    "population": 209469333,
+    "yearlyAverageTemperature": 24,
+    "flag": "",
+    "emoji": "\uD83C\uDDE7\uD83C\uDDF7",
+    "emojiU": "U+1F1E7 U+1F1F7",
+    "capitalGeolocation": {
+      "lat": -15.7942287,
+      "lng": -47.8821658
+    }
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "nativeName": "British Indian Ocean Territory",
+    "capital": null,
+    "region": "Eastern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "IO",
+    "currency": "US Dollar",
+    "currencyCode": "USD",
+    "callingCode": 246,
+    "languages": [
+      "English"
+    ],
+    "population": 0,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDEE\uD83C\uDDF4",
+    "emojiU": "U+1F1EE U+1F1F4",
+    "capitalGeolocation": {
+      "lat": -7.319500499999999,
+      "lng": 72.42285559999999
+    }
+  },
+  {
+    "name": "Brunei",
+    "nativeName": "Negara Brunei Darussalam",
+    "capital": "Bandar Seri Begawan",
+    "region": "Southeast Asia",
+    "continent": "ASIA",
+    "abbreviation": "BN",
+    "currency": null,
+    "currencyCode": "BND",
+    "callingCode": 673,
+    "languages": [
+      "Malay"
+    ],
+    "population": 428962,
+    "yearlyAverageTemperature": 26,
+    "flag": "",
+    "emoji": "\uD83C\uDDE7\uD83C\uDDF3",
+    "emojiU": "U+1F1E7 U+1F1F3",
+    "capitalGeolocation": {
+      "lat": 4.903052199999999,
+      "lng": 114.939821
+    }
+  },
+  {
+    "name": "Bulgaria",
+    "nativeName": "България",
+    "capital": "Sofia",
+    "region": "Eastern Europe",
+    "continent": "EUROPE",
+    "abbreviation": "BG",
+    "currency": "Bulgarian Lev",
+    "currencyCode": "BGN",
+    "callingCode": 359,
+    "languages": [
+      "Bulgarian"
+    ],
+    "population": 7025037,
+    "yearlyAverageTemperature": 10,
+    "flag": "",
+    "emoji": "\uD83C\uDDE7\uD83C\uDDEC",
+    "emojiU": "U+1F1E7 U+1F1EC",
+    "capitalGeolocation": {
+      "lat": 42.6977082,
+      "lng": 23.3218675
+    }
+  },
+  {
+    "name": "Burkina Faso",
+    "nativeName": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "region": "Western Africa",
+    "continent": "AFRICA",
+    "abbreviation": "BF",
+    "currency": "CFA Franc BCEAO",
+    "currencyCode": "XOF",
+    "callingCode": 226,
+    "languages": [
+      "French",
+      "Peul"
+    ],
+    "population": 19751535,
+    "yearlyAverageTemperature": 28,
+    "flag": "",
+    "emoji": "\uD83C\uDDE7\uD83C\uDDEB",
+    "emojiU": "U+1F1E7 U+1F1EB",
+    "capitalGeolocation": {
+      "lat": 12.3714277,
+      "lng": -1.5196603
+    }
+  },
+  {
+    "name": "Burundi",
+    "nativeName": "Burundi",
+    "capital": "Bujumbura",
+    "region": "Eastern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "BI",
+    "currency": "Burundi Franc",
+    "currencyCode": "BIF",
+    "callingCode": 257,
+    "languages": [
+      "French",
+      "Kirundi"
+    ],
+    "population": 11175378,
+    "yearlyAverageTemperature": 19,
+    "flag": "",
+    "emoji": "\uD83C\uDDE7\uD83C\uDDEE",
+    "emojiU": "U+1F1E7 U+1F1EE",
+    "capitalGeolocation": {
+      "lat": -3.361378,
+      "lng": 29.3598782
+    }
+  },
+  {
+    "name": "Cambodia",
+    "nativeName": "Kâmpŭchéa",
+    "capital": "Phnom Penh",
+    "region": "Southeast Asia",
+    "continent": "ASIA",
+    "abbreviation": "KH",
+    "currency": "Kampuchean Riel",
+    "currencyCode": "KHR",
+    "callingCode": 855,
+    "languages": [
+      "Cambodian"
+    ],
+    "population": 16249798,
+    "yearlyAverageTemperature": 26,
+    "flag": "",
+    "emoji": "\uD83C\uDDF0\uD83C\uDDED",
+    "emojiU": "U+1F1F0 U+1F1ED",
+    "capitalGeolocation": {
+      "lat": 11.5448729,
+      "lng": 104.8921668
+    }
+  },
+  {
+    "name": "Cameroon",
+    "nativeName": "Cameroon",
+    "capital": "Yaound",
+    "region": "Central Africa",
+    "continent": "AFRICA",
+    "abbreviation": "CM",
+    "currency": "CFA Franc BEAC",
+    "currencyCode": "XAF",
+    "callingCode": 237,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "population": 25216237,
+    "yearlyAverageTemperature": 24,
+    "flag": "",
+    "emoji": "\uD83C\uDDE8\uD83C\uDDF2",
+    "emojiU": "U+1F1E8 U+1F1F2",
+    "capitalGeolocation": {
+      "lat": 3.8480325,
+      "lng": 11.5020752
+    }
+  },
+  {
+    "name": "Canada",
+    "nativeName": "Canada",
+    "capital": "Ottawa",
+    "region": "North America",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "CA",
+    "currency": "Canadian Dollar",
+    "currencyCode": "CAD",
+    "callingCode": 1,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "population": 37057765,
+    "yearlyAverageTemperature": -5,
+    "flag": "",
+    "emoji": "\uD83C\uDDE8\uD83C\uDDE6",
+    "emojiU": "U+1F1E8 U+1F1E6",
+    "capitalGeolocation": {
+      "lat": 45.4215296,
+      "lng": -75.69719309999999
+    }
+  },
+  {
+    "name": "Cape Verde",
+    "nativeName": "Cabo Verde",
+    "capital": "Praia",
+    "region": "Western Africa",
+    "continent": "AFRICA",
+    "abbreviation": "CV",
+    "currency": "Cape Verde Escudo",
+    "currencyCode": "CVE",
+    "callingCode": 238,
+    "languages": [
+      "Portuguese"
+    ],
+    "population": 543767,
+    "yearlyAverageTemperature": 23,
+    "flag": "",
+    "emoji": "\uD83C\uDDE8\uD83C\uDDFB",
+    "emojiU": "U+1F1E8 U+1F1FB",
+    "capitalGeolocation": {
+      "lat": 14.93305,
+      "lng": -23.5133267
+    }
+  },
+  {
+    "name": "Cayman Islands",
+    "nativeName": "Cayman Islands",
+    "capital": "George Town",
+    "region": "Caribbean",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "KY",
+    "currency": "Cayman Islands Dollar",
+    "currencyCode": "KYD",
+    "callingCode": 1345,
+    "languages": [
+      "English"
+    ],
+    "population": 64174,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF0\uD83C\uDDFE",
+    "emojiU": "U+1F1F0 U+1F1FE",
+    "capitalGeolocation": {
+      "lat": 19.2869323,
+      "lng": -81.3674389
+    }
+  },
+  {
+    "name": "Central African Republic",
+    "nativeName": "Ködörösêse tî Bêafrîka",
+    "capital": "Bangui",
+    "region": "Central Africa",
+    "continent": "AFRICA",
+    "abbreviation": "CF",
+    "currency": "CFA Franc BEAC",
+    "currencyCode": "XAF",
+    "callingCode": 236,
+    "languages": [
+      "French",
+      "Sango"
+    ],
+    "population": 4666377,
+    "yearlyAverageTemperature": 24,
+    "flag": "",
+    "emoji": "\uD83C\uDDE8\uD83C\uDDEB",
+    "emojiU": "U+1F1E8 U+1F1EB",
+    "capitalGeolocation": {
+      "lat": 4.3946735,
+      "lng": 18.5581899
+    }
+  },
+  {
+    "name": "Chad",
+    "nativeName": "Tchad",
+    "capital": "N'Djam",
+    "region": "Central Africa",
+    "continent": "AFRICA",
+    "abbreviation": "TD",
+    "currency": null,
+    "currencyCode": "XAF",
+    "callingCode": 235,
+    "languages": [
+      "French",
+      "Arabic"
+    ],
+    "population": 15477751,
+    "yearlyAverageTemperature": 26,
+    "flag": "",
+    "emoji": "\uD83C\uDDF9\uD83C\uDDE9",
+    "emojiU": "U+1F1F9 U+1F1E9",
+    "capitalGeolocation": {
+      "lat": 12.1348457,
+      "lng": 15.0557415
+    }
+  },
+  {
+    "name": "Chile",
+    "nativeName": "Chile",
+    "capital": "Santiago de Chile",
+    "region": "South America",
+    "continent": "SOUTH_AMERICA",
+    "abbreviation": "CL",
+    "currency": "Chilean Peso",
+    "currencyCode": "CLP",
+    "callingCode": 56,
+    "languages": [
+      "Spanish"
+    ],
+    "population": 18729160,
+    "yearlyAverageTemperature": 8,
+    "flag": "",
+    "emoji": "\uD83C\uDDE8\uD83C\uDDF1",
+    "emojiU": "U+1F1E8 U+1F1F1",
+    "capitalGeolocation": {
+      "lat": -33.4488897,
+      "lng": -70.6692655
+    }
+  },
+  {
+    "name": "China",
+    "nativeName": "中国",
+    "capital": "Peking",
+    "region": "Eastern Asia",
+    "continent": "ASIA",
+    "abbreviation": "CN",
+    "currency": "Yuan Renminbi",
+    "currencyCode": "CNY",
+    "callingCode": 86,
+    "languages": [
+      "Chinese"
+    ],
+    "population": 1392730000,
+    "yearlyAverageTemperature": 6,
+    "flag": "",
+    "emoji": "\uD83C\uDDE8\uD83C\uDDF3",
+    "emojiU": "U+1F1E8 U+1F1F3",
+    "capitalGeolocation": {
+      "lat": 39.904211,
+      "lng": 116.407395
+    }
+  },
+  {
+    "name": "Christmas Island",
+    "nativeName": "Christmas Island",
+    "capital": "Flying Fish Cove",
+    "region": "Australia and New Zealand",
+    "continent": "OCEANIA",
+    "abbreviation": "CX",
+    "currency": "Australian Dollar",
+    "currencyCode": "AUD",
+    "callingCode": 61,
+    "languages": [
+      "English"
+    ],
+    "population": 1402,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDE8\uD83C\uDDFD",
+    "emojiU": "U+1F1E8 U+1F1FD",
+    "capitalGeolocation": {
+      "lat": -10.4206861,
+      "lng": 105.6793792
+    }
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "nativeName": "Cocos (Keeling) Islands",
+    "capital": "West Island",
+    "region": "Australia and New Zealand",
+    "continent": "OCEANIA",
+    "abbreviation": "CC",
+    "currency": " Australian Dollar",
+    "currencyCode": "AUD",
+    "callingCode": 61,
+    "languages": [
+      "English"
+    ],
+    "population": 596,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDE8\uD83C\uDDE8",
+    "emojiU": "U+1F1E8 U+1F1E8",
+    "capitalGeolocation": {
+      "lat": -12.1888345,
+      "lng": 96.8293159
+    }
+  },
+  {
+    "name": "Colombia",
+    "nativeName": "Colombia",
+    "capital": "Santaf",
+    "region": "South America",
+    "continent": "SOUTH_AMERICA",
+    "abbreviation": "CO",
+    "currency": "Colombian Peso",
+    "currencyCode": "COP",
+    "callingCode": 57,
+    "languages": [
+      "Spanish"
+    ],
+    "population": 49648685,
+    "yearlyAverageTemperature": 24,
+    "flag": "",
+    "emoji": "\uD83C\uDDE8\uD83C\uDDF4",
+    "emojiU": "U+1F1E8 U+1F1F4",
+    "capitalGeolocation": {
+      "lat": 4.710988599999999,
+      "lng": -74.072092
+    }
+  },
+  {
+    "name": "Comoros",
+    "nativeName": "Komori",
+    "capital": "Moroni",
+    "region": "Eastern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "KM",
+    "currency": "Comoros Franc",
+    "currencyCode": "KMF",
+    "callingCode": 269,
+    "languages": [
+      "Arabic",
+      "French"
+    ],
+    "population": 832322,
+    "yearlyAverageTemperature": 25,
+    "flag": "",
+    "emoji": "\uD83C\uDDF0\uD83C\uDDF2",
+    "emojiU": "U+1F1F0 U+1F1F2",
+    "capitalGeolocation": {
+      "lat": -11.7172157,
+      "lng": 43.2473146
+    }
+  },
+  {
+    "name": "Congo",
+    "nativeName": "République du Congo",
+    "capital": "Brazzaville",
+    "region": "Central Africa",
+    "continent": "AFRICA",
+    "abbreviation": "CG",
+    "currency": "CFA Franc BEAC",
+    "currencyCode": "XAF",
+    "callingCode": 242,
+    "languages": [
+      "French",
+      "Lingala"
+    ],
+    "population": 5244363,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDE8\uD83C\uDDEC",
+    "emojiU": "U+1F1E8 U+1F1EC",
+    "capitalGeolocation": null
+  },
+  {
+    "name": "The Democratic Republic of Congo",
+    "nativeName": "République démocratique du Congo",
+    "capital": "Kinshasa",
+    "region": null,
+    "continent": "AFRICA",
+    "abbreviation": "CD",
+    "currency": "Franc Congolais",
+    "currencyCode": "CDF",
+    "callingCode": 243,
+    "languages": [
+      "French",
+      "Lingala",
+      "Swahili",
+      "Kongo",
+      "Luba-Katanga"
+    ],
+    "population": 84068091,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDE8\uD83C\uDDE9",
+    "emojiU": "U+1F1E8 U+1F1E9",
+    "capitalGeolocation": {
+      "lat": -4.4419311,
+      "lng": 15.2662931
+    }
+  },
+  {
+    "name": "Cook Islands",
+    "nativeName": "Cook Islands",
+    "capital": "Avarua",
+    "region": "Polynesia",
+    "continent": "OCEANIA",
+    "abbreviation": "CK",
+    "currency": "New Zealand Dollar",
+    "currencyCode": "NZD",
+    "callingCode": 682,
+    "languages": [
+      "English"
+    ],
+    "population": 17379,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDE8\uD83C\uDDF0",
+    "emojiU": "U+1F1E8 U+1F1F0",
+    "capitalGeolocation": {
+      "lat": -21.2129007,
+      "lng": -159.7823059
+    }
+  },
+  {
+    "name": "Costa Rica",
+    "nativeName": "Costa Rica",
+    "capital": "San Jos",
+    "region": "Central America",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "CR",
+    "currency": "Costa Rican Colon",
+    "currencyCode": "CRC",
+    "callingCode": 506,
+    "languages": [
+      "Spanish"
+    ],
+    "population": 4999441,
+    "yearlyAverageTemperature": 24,
+    "flag": "",
+    "emoji": "\uD83C\uDDE8\uD83C\uDDF7",
+    "emojiU": "U+1F1E8 U+1F1F7",
+    "capitalGeolocation": {
+      "lat": 9.9280694,
+      "lng": -84.0907246
+    }
+  },
+  {
+    "name": "Ivory Coast",
+    "nativeName": "Côte d'Ivoire",
+    "capital": "Yamoussoukro",
+    "region": "Western Africa",
+    "continent": "AFRICA",
+    "abbreviation": "CI",
+    "currency": "CFA Franc BCEAO",
+    "currencyCode": "XOF",
+    "callingCode": 225,
+    "languages": [
+      "French"
+    ],
+    "population": 25069229,
+    "yearlyAverageTemperature": 26,
+    "flag": "",
+    "emoji": "\uD83C\uDDE8\uD83C\uDDEE",
+    "emojiU": "U+1F1E8 U+1F1EE",
+    "capitalGeolocation": {
+      "lat": 6.827622799999999,
+      "lng": -5.2893433
+    }
+  },
+  {
+    "name": "Croatia",
+    "nativeName": "Hrvatska",
+    "capital": "Zagreb",
+    "region": "Southern Europe",
+    "continent": "EUROPE",
+    "abbreviation": "HR",
+    "currency": "Croatian Kuna",
+    "currencyCode": "HRK",
+    "callingCode": 385,
+    "languages": [
+      "Croatian"
+    ],
+    "population": 4087843,
+    "yearlyAverageTemperature": 10,
+    "flag": "",
+    "emoji": "\uD83C\uDDED\uD83C\uDDF7",
+    "emojiU": "U+1F1ED U+1F1F7",
+    "capitalGeolocation": {
+      "lat": 45.8150108,
+      "lng": 15.981919
+    }
+  },
+  {
+    "name": "Cuba",
+    "nativeName": "Cuba",
+    "capital": "La Habana",
+    "region": "Caribbean",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "CU",
+    "currency": "Cuban Peso",
+    "currencyCode": "CUP",
+    "callingCode": 53,
+    "languages": [
+      "Spanish"
+    ],
+    "population": 11338138,
+    "yearlyAverageTemperature": 25,
+    "flag": "",
+    "emoji": "\uD83C\uDDE8\uD83C\uDDFA",
+    "emojiU": "U+1F1E8 U+1F1FA",
+    "capitalGeolocation": {
+      "lat": 23.0540698,
+      "lng": -82.34518899999999
+    }
+  },
+  {
+    "name": "Cyprus",
+    "nativeName": "Κύπρος",
+    "capital": "Nicosia",
+    "region": "Middle East",
+    "continent": "ASIA",
+    "abbreviation": "CY",
+    "currency": "Euro",
+    "currencyCode": "EUR",
+    "callingCode": 357,
+    "languages": [
+      "Armenian",
+      "Greek",
+      "Turkish"
+    ],
+    "population": 1189265,
+    "yearlyAverageTemperature": 18,
+    "flag": "",
+    "emoji": "\uD83C\uDDE8\uD83C\uDDFE",
+    "emojiU": "U+1F1E8 U+1F1FE",
+    "capitalGeolocation": {
+      "lat": 35.0400155,
+      "lng": 33.1239049
+    }
+  },
+  {
+    "name": "Czech Republic",
+    "nativeName": "Česká republika",
+    "capital": "Praha",
+    "region": "Eastern Europe",
+    "continent": "EUROPE",
+    "abbreviation": "CZ",
+    "currency": null,
+    "currencyCode": "CZK",
+    "callingCode": 420,
+    "languages": [
+      "Slovak",
+      "Czech"
+    ],
+    "population": 10629928,
+    "yearlyAverageTemperature": 7,
+    "flag": "",
+    "emoji": "\uD83C\uDDE8\uD83C\uDDFF",
+    "emojiU": "U+1F1E8 U+1F1FF",
+    "capitalGeolocation": {
+      "lat": 50.0755381,
+      "lng": 14.4378005
+    }
+  },
+  {
+    "name": "Denmark",
+    "nativeName": "Danmark",
+    "capital": "Copenhagen",
+    "region": "Nordic Countries",
+    "continent": "EUROPE",
+    "abbreviation": "DK",
+    "currency": "Danish Krone",
+    "currencyCode": "DKK",
+    "callingCode": 45,
+    "languages": [
+      "Danish"
+    ],
+    "population": 5793636,
+    "yearlyAverageTemperature": 7,
+    "flag": "",
+    "emoji": "\uD83C\uDDE9\uD83C\uDDF0",
+    "emojiU": "U+1F1E9 U+1F1F0",
+    "capitalGeolocation": {
+      "lat": 55.6760968,
+      "lng": 12.5683371
+    }
+  },
+  {
+    "name": "Djibouti",
+    "nativeName": "Djibouti",
+    "capital": "Djibouti",
+    "region": "Eastern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "DJ",
+    "currency": "Djibouti Franc",
+    "currencyCode": "DJF",
+    "callingCode": 253,
+    "languages": [
+      "French",
+      "Arabic"
+    ],
+    "population": 958920,
+    "yearlyAverageTemperature": 28,
+    "flag": "",
+    "emoji": "\uD83C\uDDE9\uD83C\uDDEF",
+    "emojiU": "U+1F1E9 U+1F1EF",
+    "capitalGeolocation": {
+      "lat": 11.5720765,
+      "lng": 43.1456475
+    }
+  },
+  {
+    "name": "Dominica",
+    "nativeName": "Dominica",
+    "capital": "Roseau",
+    "region": "Caribbean",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "DM",
+    "currency": "East Caribbean Dollar",
+    "currencyCode": "XCD",
+    "callingCode": 1767,
+    "languages": [
+      "English"
+    ],
+    "population": 71625,
+    "yearlyAverageTemperature": 22,
+    "flag": "",
+    "emoji": "\uD83C\uDDE9\uD83C\uDDF2",
+    "emojiU": "U+1F1E9 U+1F1F2",
+    "capitalGeolocation": {
+      "lat": 15.3091676,
+      "lng": -61.37935539999999
+    }
+  },
+  {
+    "name": "Dominican Republic",
+    "nativeName": "República Dominicana",
+    "capital": "Santo Domingo de Guzm",
+    "region": "Caribbean",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "DO",
+    "currency": "Dominican Peso",
+    "currencyCode": "DOP",
+    "callingCode": 1849,
+    "languages": [
+      "Spanish"
+    ],
+    "population": 10627165,
+    "yearlyAverageTemperature": 24,
+    "flag": "",
+    "emoji": "\uD83C\uDDE9\uD83C\uDDF4",
+    "emojiU": "U+1F1E9 U+1F1F4",
+    "capitalGeolocation": {
+      "lat": 18.4860575,
+      "lng": -69.93121169999999
+    }
+  },
+  {
+    "name": "East Timor",
+    "nativeName": null,
+    "capital": "Dili",
+    "region": "Southeast Asia",
+    "continent": "ASIA",
+    "abbreviation": "TP",
+    "currency": null,
+    "currencyCode": "USD",
+    "callingCode": 670,
+    "languages": [],
+    "population": 1267972,
+    "yearlyAverageTemperature": 25,
+    "flag": "",
+    "emoji": null,
+    "emojiU": null,
+    "capitalGeolocation": {
+      "lat": -8.5568557,
+      "lng": 125.5603143
+    }
+  },
+  {
+    "name": "Ecuador",
+    "nativeName": "Ecuador",
+    "capital": "Quito",
+    "region": "South America",
+    "continent": "SOUTH_AMERICA",
+    "abbreviation": "EC",
+    "currency": "Ecuador Sucre",
+    "currencyCode": "ECS",
+    "callingCode": 593,
+    "languages": [
+      "Spanish"
+    ],
+    "population": 17084357,
+    "yearlyAverageTemperature": 21,
+    "flag": "",
+    "emoji": "\uD83C\uDDEA\uD83C\uDDE8",
+    "emojiU": "U+1F1EA U+1F1E8",
+    "capitalGeolocation": {
+      "lat": -0.1806532,
+      "lng": -78.4678382
+    }
+  },
+  {
+    "name": "Egypt",
+    "nativeName": "مصر‎",
+    "capital": "Cairo",
+    "region": "Northern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "EG",
+    "currency": "Egyptian Pound",
+    "currencyCode": "EGP",
+    "callingCode": 20,
+    "languages": [
+      "Arabic"
+    ],
+    "population": 98423595,
+    "yearlyAverageTemperature": 22,
+    "flag": "",
+    "emoji": "\uD83C\uDDEA\uD83C\uDDEC",
+    "emojiU": "U+1F1EA U+1F1EC",
+    "capitalGeolocation": {
+      "lat": 30.0444196,
+      "lng": 31.2357116
+    }
+  },
+  {
+    "name": "England",
+    "nativeName": null,
+    "capital": "London",
+    "region": null,
+    "continent": "EUROPE",
+    "abbreviation": null,
+    "currency": null,
+    "currencyCode": "GBP",
+    "callingCode": 44,
+    "languages": [],
+    "population": 55619400,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": null,
+    "emojiU": null,
+    "capitalGeolocation": {
+      "lat": 51.5073509,
+      "lng": -0.1277583
+    }
+  },
+  {
+    "name": "El Salvador",
+    "nativeName": "El Salvador",
+    "capital": "San Salvador",
+    "region": "Central America",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "SV",
+    "currency": "El Salvador Colon",
+    "currencyCode": "SVC",
+    "callingCode": 503,
+    "languages": [
+      "Spanish"
+    ],
+    "population": 6420744,
+    "yearlyAverageTemperature": 24,
+    "flag": "",
+    "emoji": "\uD83C\uDDF8\uD83C\uDDFB",
+    "emojiU": "U+1F1F8 U+1F1FB",
+    "capitalGeolocation": {
+      "lat": 13.6929403,
+      "lng": -89.2181911
+    }
+  },
+  {
+    "name": "Equatorial Guinea",
+    "nativeName": "Guinea Ecuatorial",
+    "capital": "Malabo",
+    "region": "Central Africa",
+    "continent": "AFRICA",
+    "abbreviation": "GQ",
+    "currency": "CFA Franc BEAC",
+    "currencyCode": "XAF",
+    "callingCode": 240,
+    "languages": [
+      "French",
+      "Spanish"
+    ],
+    "population": 1308974,
+    "yearlyAverageTemperature": 24,
+    "flag": "",
+    "emoji": "\uD83C\uDDEC\uD83C\uDDF6",
+    "emojiU": "U+1F1EC U+1F1F6",
+    "capitalGeolocation": {
+      "lat": 3.7504118,
+      "lng": 8.7371039
+    }
+  },
+  {
+    "name": "Eritrea",
+    "nativeName": "ኤርትራ",
+    "capital": "Asmara",
+    "region": "Eastern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "ER",
+    "currency": "Eritrean Nakfa",
+    "currencyCode": "ERN",
+    "callingCode": 291,
+    "languages": [
+      "Tigrinya",
+      "English",
+      "Arabic"
+    ],
+    "population": 6213972,
+    "yearlyAverageTemperature": 25,
+    "flag": "",
+    "emoji": "\uD83C\uDDEA\uD83C\uDDF7",
+    "emojiU": "U+1F1EA U+1F1F7",
+    "capitalGeolocation": {
+      "lat": 15.3228767,
+      "lng": 38.9250517
+    }
+  },
+  {
+    "name": "Estonia",
+    "nativeName": "Eesti",
+    "capital": "Tallinn",
+    "region": "Baltic Countries",
+    "continent": "EUROPE",
+    "abbreviation": "EE",
+    "currency": "Euro",
+    "currencyCode": "EUR",
+    "callingCode": 372,
+    "languages": [
+      "Estonian"
+    ],
+    "population": 1321977,
+    "yearlyAverageTemperature": 5,
+    "flag": "",
+    "emoji": "\uD83C\uDDEA\uD83C\uDDEA",
+    "emojiU": "U+1F1EA U+1F1EA",
+    "capitalGeolocation": {
+      "lat": 59.43696079999999,
+      "lng": 24.7535746
+    }
+  },
+  {
+    "name": "Ethiopia",
+    "nativeName": "ኢትዮጵያ",
+    "capital": "Addis Abeba",
+    "region": "Eastern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "ET",
+    "currency": "Ethiopian Birr",
+    "currencyCode": "ETB",
+    "callingCode": 251,
+    "languages": [
+      "Amharic"
+    ],
+    "population": 109224559,
+    "yearlyAverageTemperature": 22,
+    "flag": "",
+    "emoji": "\uD83C\uDDEA\uD83C\uDDF9",
+    "emojiU": "U+1F1EA U+1F1F9",
+    "capitalGeolocation": {
+      "lat": 8.9806034,
+      "lng": 38.7577605
+    }
+  },
+  {
+    "name": "Falkland Islands",
+    "nativeName": "Falkland Islands",
+    "capital": "Stanley",
+    "region": "South America",
+    "continent": "SOUTH_AMERICA",
+    "abbreviation": "FK",
+    "currency": null,
+    "currencyCode": "FKP",
+    "callingCode": 500,
+    "languages": [
+      "English"
+    ],
+    "population": 2840,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDEB\uD83C\uDDF0",
+    "emojiU": "U+1F1EB U+1F1F0",
+    "capitalGeolocation": {
+      "lat": -51.6977129,
+      "lng": -57.85166269999999
+    }
+  },
+  {
+    "name": "Faroe Islands",
+    "nativeName": "Føroyar",
+    "capital": "Tórshavn",
+    "region": "Nordic Countries",
+    "continent": "EUROPE",
+    "abbreviation": "FO",
+    "currency": " Danish Krone",
+    "currencyCode": "DKK",
+    "callingCode": 298,
+    "languages": [
+      "Faroese"
+    ],
+    "population": 48497,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDEB\uD83C\uDDF4",
+    "emojiU": "U+1F1EB U+1F1F4",
+    "capitalGeolocation": {
+      "lat": 62.007864,
+      "lng": -6.7909816
+    }
+  },
+  {
+    "name": "Fiji Islands",
+    "nativeName": "Fiji",
+    "capital": "Suva",
+    "region": "Melanesia",
+    "continent": "OCEANIA",
+    "abbreviation": "FJ",
+    "currency": null,
+    "currencyCode": "FJD",
+    "callingCode": 679,
+    "languages": [
+      "English",
+      "Fijian",
+      "Urdu",
+      "Hindi"
+    ],
+    "population": 883483,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDEB\uD83C\uDDEF",
+    "emojiU": "U+1F1EB U+1F1EF",
+    "capitalGeolocation": {
+      "lat": -18.1248086,
+      "lng": 178.4500789
+    }
+  },
+  {
+    "name": "Finland",
+    "nativeName": "Suomi",
+    "capital": "Helsinki [Helsingfors]",
+    "region": "Nordic Countries",
+    "continent": "EUROPE",
+    "abbreviation": "FI",
+    "currency": "Euro",
+    "currencyCode": "EUR",
+    "callingCode": 358,
+    "languages": [
+      "Finnish",
+      "Swedish"
+    ],
+    "population": 5515525,
+    "yearlyAverageTemperature": 1,
+    "flag": "",
+    "emoji": "\uD83C\uDDEB\uD83C\uDDEE",
+    "emojiU": "U+1F1EB U+1F1EE",
+    "capitalGeolocation": {
+      "lat": 60.17332440000001,
+      "lng": 24.9410248
+    }
+  },
+  {
+    "name": "France",
+    "nativeName": "France",
+    "capital": "Paris",
+    "region": "Western Europe",
+    "continent": "EUROPE",
+    "abbreviation": "FR",
+    "currency": "Euro",
+    "currencyCode": "EUR",
+    "callingCode": 33,
+    "languages": [
+      "French"
+    ],
+    "population": 66977107,
+    "yearlyAverageTemperature": 10,
+    "flag": "",
+    "emoji": "\uD83C\uDDEB\uD83C\uDDF7",
+    "emojiU": "U+1F1EB U+1F1F7",
+    "capitalGeolocation": {
+      "lat": 48.856614,
+      "lng": 2.3522219
+    }
+  },
+  {
+    "name": "French Guiana",
+    "nativeName": "Guyane française",
+    "capital": "Cayenne",
+    "region": "South America",
+    "continent": "SOUTH_AMERICA",
+    "abbreviation": "GF",
+    "currency": "Euro",
+    "currencyCode": "EUR",
+    "callingCode": 594,
+    "languages": [
+      "French"
+    ],
+    "population": 290691,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDEC\uD83C\uDDEB",
+    "emojiU": "U+1F1EC U+1F1EB",
+    "capitalGeolocation": {
+      "lat": 4.92242,
+      "lng": -52.3134531
+    }
+  },
+  {
+    "name": "French Polynesia",
+    "nativeName": "Polynésie française",
+    "capital": "Papeete",
+    "region": "Polynesia",
+    "continent": "OCEANIA",
+    "abbreviation": "PF",
+    "currency": null,
+    "currencyCode": "XPF",
+    "callingCode": 689,
+    "languages": [
+      "French"
+    ],
+    "population": 277679,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF5\uD83C\uDDEB",
+    "emojiU": "U+1F1F5 U+1F1EB",
+    "capitalGeolocation": {
+      "lat": -17.5516251,
+      "lng": -149.5584758
+    }
+  },
+  {
+    "name": "French Southern territories",
+    "nativeName": "Territoire des Terres australes et antarctiques fr",
+    "capital": null,
+    "region": "Antarctica",
+    "continent": "ANTARCTICA",
+    "abbreviation": "TF",
+    "currency": "Euro",
+    "currencyCode": "EUR",
+    "callingCode": 262,
+    "languages": [
+      "French"
+    ],
+    "population": 0,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF9\uD83C\uDDEB",
+    "emojiU": "U+1F1F9 U+1F1EB",
+    "capitalGeolocation": null
+  },
+  {
+    "name": "Gabon",
+    "nativeName": "Gabon",
+    "capital": "Libreville",
+    "region": "Central Africa",
+    "continent": "AFRICA",
+    "abbreviation": "GA",
+    "currency": "CFA Franc BEAC",
+    "currencyCode": "XAF",
+    "callingCode": 241,
+    "languages": [
+      "French"
+    ],
+    "population": 2119275,
+    "yearlyAverageTemperature": 25,
+    "flag": "",
+    "emoji": "\uD83C\uDDEC\uD83C\uDDE6",
+    "emojiU": "U+1F1EC U+1F1E6",
+    "capitalGeolocation": {
+      "lat": 0.4161976,
+      "lng": 9.4672676
+    }
+  },
+  {
+    "name": "Gambia",
+    "nativeName": "Gambia",
+    "capital": "Banjul",
+    "region": "Western Africa",
+    "continent": "AFRICA",
+    "abbreviation": "GM",
+    "currency": "Gambian Dalasi",
+    "currencyCode": "GMD",
+    "callingCode": 220,
+    "languages": [
+      "English"
+    ],
+    "population": 2280102,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDEC\uD83C\uDDF2",
+    "emojiU": "U+1F1EC U+1F1F2",
+    "capitalGeolocation": {
+      "lat": 13.4548761,
+      "lng": -16.5790323
+    }
+  },
+  {
+    "name": "Georgia",
+    "nativeName": "საქართველო",
+    "capital": "Tbilisi",
+    "region": "Middle East",
+    "continent": "ASIA",
+    "abbreviation": "GE",
+    "currency": "Georgian Lari",
+    "currencyCode": "GEL",
+    "callingCode": 995,
+    "languages": [
+      "Georgian"
+    ],
+    "population": 3726549,
+    "yearlyAverageTemperature": 5,
+    "flag": "",
+    "emoji": "\uD83C\uDDEC\uD83C\uDDEA",
+    "emojiU": "U+1F1EC U+1F1EA",
+    "capitalGeolocation": {
+      "lat": 41.7151377,
+      "lng": 44.827096
+    }
+  },
+  {
+    "name": "Germany",
+    "nativeName": "Deutschland",
+    "capital": "Berlin",
+    "region": "Western Europe",
+    "continent": "EUROPE",
+    "abbreviation": "DE",
+    "currency": "Euro",
+    "currencyCode": "EUR",
+    "callingCode": 49,
+    "languages": [
+      "German"
+    ],
+    "population": 82905782,
+    "yearlyAverageTemperature": 8,
+    "flag": "",
+    "emoji": "\uD83C\uDDE9\uD83C\uDDEA",
+    "emojiU": "U+1F1E9 U+1F1EA",
+    "capitalGeolocation": {
+      "lat": 52.52000659999999,
+      "lng": 13.404954
+    }
+  },
+  {
+    "name": "Ghana",
+    "nativeName": "Ghana",
+    "capital": "Accra",
+    "region": "Western Africa",
+    "continent": "AFRICA",
+    "abbreviation": "GH",
+    "currency": "Ghanaian Cedi",
+    "currencyCode": "GHS",
+    "callingCode": 233,
+    "languages": [
+      "English"
+    ],
+    "population": 29767108,
+    "yearlyAverageTemperature": 27,
+    "flag": "",
+    "emoji": "\uD83C\uDDEC\uD83C\uDDED",
+    "emojiU": "U+1F1EC U+1F1ED",
+    "capitalGeolocation": {
+      "lat": 5.6037168,
+      "lng": -0.1869644
+    }
+  },
+  {
+    "name": "Gibraltar",
+    "nativeName": "Gibraltar",
+    "capital": "Gibraltar",
+    "region": "Southern Europe",
+    "continent": "EUROPE",
+    "abbreviation": "GI",
+    "currency": "Gibraltar Pound",
+    "currencyCode": "GIP",
+    "callingCode": 350,
+    "languages": [
+      "English"
+    ],
+    "population": 33718,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDEC\uD83C\uDDEE",
+    "emojiU": "U+1F1EC U+1F1EE",
+    "capitalGeolocation": {
+      "lat": 36.1407734,
+      "lng": -5.353599399999999
+    }
+  },
+  {
+    "name": "Greece",
+    "nativeName": "Ελλάδα",
+    "capital": "Athenai",
+    "region": "Southern Europe",
+    "continent": "EUROPE",
+    "abbreviation": "GR",
+    "currency": "Euro",
+    "currencyCode": "EUR",
+    "callingCode": 30,
+    "languages": [
+      "Greek"
+    ],
+    "population": 10731726,
+    "yearlyAverageTemperature": 15,
+    "flag": "",
+    "emoji": "\uD83C\uDDEC\uD83C\uDDF7",
+    "emojiU": "U+1F1EC U+1F1F7",
+    "capitalGeolocation": {
+      "lat": 37.983917,
+      "lng": 23.7293599
+    }
+  },
+  {
+    "name": "Greenland",
+    "nativeName": "Kalaallit Nunaat",
+    "capital": "Nuuk",
+    "region": "North America",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "GL",
+    "currency": "Danish Krone",
+    "currencyCode": "DKK",
+    "callingCode": 299,
+    "languages": [
+      "Greenlandic"
+    ],
+    "population": 56025,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDEC\uD83C\uDDF1",
+    "emojiU": "U+1F1EC U+1F1F1",
+    "capitalGeolocation": {
+      "lat": 64.18140989999999,
+      "lng": -51.694138
+    }
+  },
+  {
+    "name": "Grenada",
+    "nativeName": "Grenada",
+    "capital": "Saint George's",
+    "region": "Caribbean",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "GD",
+    "currency": "East Carribean Dollar",
+    "currencyCode": "XCD",
+    "callingCode": 1473,
+    "languages": [
+      "English"
+    ],
+    "population": 111454,
+    "yearlyAverageTemperature": 26,
+    "flag": "",
+    "emoji": "\uD83C\uDDEC\uD83C\uDDE9",
+    "emojiU": "U+1F1EC U+1F1E9",
+    "capitalGeolocation": {
+      "lat": 12.0560975,
+      "lng": -61.7487996
+    }
+  },
+  {
+    "name": "Guadeloupe",
+    "nativeName": "Guadeloupe",
+    "capital": "Basse-Terre",
+    "region": "Caribbean",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "GP",
+    "currency": null,
+    "currencyCode": "EUR",
+    "callingCode": 590,
+    "languages": [
+      "French"
+    ],
+    "population": 395700,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDEC\uD83C\uDDF5",
+    "emojiU": "U+1F1EC U+1F1F5",
+    "capitalGeolocation": {
+      "lat": 16.0144526,
+      "lng": -61.7064109
+    }
+  },
+  {
+    "name": "Guam",
+    "nativeName": "Guam",
+    "capital": "Aga",
+    "region": "Micronesia",
+    "continent": "OCEANIA",
+    "abbreviation": "GU",
+    "currency": null,
+    "currencyCode": "USD",
+    "callingCode": 1671,
+    "languages": [
+      "Chamorro",
+      "English",
+      "Spanish"
+    ],
+    "population": 165768,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDEC\uD83C\uDDFA",
+    "emojiU": "U+1F1EC U+1F1FA",
+    "capitalGeolocation": {
+      "lat": 13.4762824,
+      "lng": 144.7502228
+    }
+  },
+  {
+    "name": "Guatemala",
+    "nativeName": "Guatemala",
+    "capital": "Ciudad de Guatemala",
+    "region": "Central America",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "GT",
+    "currency": "Guatemalan Quetzal",
+    "currencyCode": "QTQ",
+    "callingCode": 502,
+    "languages": [
+      "Spanish"
+    ],
+    "population": 17247807,
+    "yearlyAverageTemperature": 23,
+    "flag": "",
+    "emoji": "\uD83C\uDDEC\uD83C\uDDF9",
+    "emojiU": "U+1F1EC U+1F1F9",
+    "capitalGeolocation": {
+      "lat": 14.6349149,
+      "lng": -90.5068824
+    }
+  },
+  {
+    "name": "Guernsey",
+    "nativeName": "Guernsey",
+    "capital": null,
+    "region": null,
+    "continent": null,
+    "abbreviation": "GG",
+    "currency": null,
+    "currencyCode": null,
+    "callingCode": null,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "population": null,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDEC\uD83C\uDDEC",
+    "emojiU": "U+1F1EC U+1F1EC",
+    "capitalGeolocation": {
+      "lat": 49.455443,
+      "lng": -2.5368711
+    }
+  },
+  {
+    "name": "Guinea",
+    "nativeName": "Guinée",
+    "capital": "Conakry",
+    "region": "Western Africa",
+    "continent": "AFRICA",
+    "abbreviation": "GN",
+    "currency": "Guinea Franc",
+    "currencyCode": "GNF",
+    "callingCode": 224,
+    "languages": [
+      "French",
+      "Peul"
+    ],
+    "population": 12414318,
+    "yearlyAverageTemperature": 25,
+    "flag": "",
+    "emoji": "\uD83C\uDDEC\uD83C\uDDF3",
+    "emojiU": "U+1F1EC U+1F1F3",
+    "capitalGeolocation": {
+      "lat": 9.641185499999999,
+      "lng": -13.5784012
+    }
+  },
+  {
+    "name": "Guinea-Bissau",
+    "nativeName": "Guiné-Bissau",
+    "capital": "Bissau",
+    "region": "Western Africa",
+    "continent": "AFRICA",
+    "abbreviation": "GW",
+    "currency": null,
+    "currencyCode": "CFA",
+    "callingCode": 245,
+    "languages": [
+      "Portuguese"
+    ],
+    "population": 1874309,
+    "yearlyAverageTemperature": 26,
+    "flag": "",
+    "emoji": "\uD83C\uDDEC\uD83C\uDDFC",
+    "emojiU": "U+1F1EC U+1F1FC",
+    "capitalGeolocation": {
+      "lat": 11.8816553,
+      "lng": -15.6177942
+    }
+  },
+  {
+    "name": "Guyana",
+    "nativeName": "Guyana",
+    "capital": "Georgetown",
+    "region": "South America",
+    "continent": "SOUTH_AMERICA",
+    "abbreviation": "GY",
+    "currency": "Guyana Dollar",
+    "currencyCode": "GYD",
+    "callingCode": 592,
+    "languages": [
+      "English"
+    ],
+    "population": 779004,
+    "yearlyAverageTemperature": 26,
+    "flag": "",
+    "emoji": "\uD83C\uDDEC\uD83C\uDDFE",
+    "emojiU": "U+1F1EC U+1F1FE",
+    "capitalGeolocation": {
+      "lat": 6.8012793,
+      "lng": -58.1551255
+    }
+  },
+  {
+    "name": "Haiti",
+    "nativeName": "Haïti",
+    "capital": "Port-au-Prince",
+    "region": "Caribbean",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "HT",
+    "currency": "Haitian Gourde",
+    "currencyCode": "HTG",
+    "callingCode": 509,
+    "languages": [
+      "French",
+      "Haitian"
+    ],
+    "population": 11123176,
+    "yearlyAverageTemperature": 24,
+    "flag": "",
+    "emoji": "\uD83C\uDDED\uD83C\uDDF9",
+    "emojiU": "U+1F1ED U+1F1F9",
+    "capitalGeolocation": {
+      "lat": 18.594395,
+      "lng": -72.3074326
+    }
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "nativeName": "Heard Island and McDonald Islands",
+    "capital": null,
+    "region": "Antarctica",
+    "continent": "ANTARCTICA",
+    "abbreviation": "HM",
+    "currency": "Australian Dollar",
+    "currencyCode": "AUD",
+    "callingCode": 672,
+    "languages": [
+      "English"
+    ],
+    "population": 0,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDED\uD83C\uDDF2",
+    "emojiU": "U+1F1ED U+1F1F2",
+    "capitalGeolocation": {
+      "lat": -53.08181,
+      "lng": 73.50415799999999
+    }
+  },
+  {
+    "name": "Holy See (Vatican City State)",
+    "nativeName": "Vaticano",
+    "capital": "Citt",
+    "region": "Southern Europe",
+    "continent": "EUROPE",
+    "abbreviation": "VA",
+    "currency": null,
+    "currencyCode": "EUR",
+    "callingCode": 379,
+    "languages": [
+      "Italian",
+      "Latin"
+    ],
+    "population": 825,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDFB\uD83C\uDDE6",
+    "emojiU": "U+1F1FB U+1F1E6",
+    "capitalGeolocation": null
+  },
+  {
+    "name": "Honduras",
+    "nativeName": "Honduras",
+    "capital": "Tegucigalpa",
+    "region": "Central America",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "HN",
+    "currency": "Honduran Lempira",
+    "currencyCode": "HNL",
+    "callingCode": 504,
+    "languages": [
+      "Spanish"
+    ],
+    "population": 9587522,
+    "yearlyAverageTemperature": 23,
+    "flag": "",
+    "emoji": "\uD83C\uDDED\uD83C\uDDF3",
+    "emojiU": "U+1F1ED U+1F1F3",
+    "capitalGeolocation": {
+      "lat": 14.0722751,
+      "lng": -87.19213599999999
+    }
+  },
+  {
+    "name": "Hong Kong",
+    "nativeName": "香港",
+    "capital": "Victoria",
+    "region": "Eastern Asia",
+    "continent": "ASIA",
+    "abbreviation": "HK",
+    "currency": "Hong Kong Dollar",
+    "currencyCode": "HKD",
+    "callingCode": 852,
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "population": 7451000,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDED\uD83C\uDDF0",
+    "emojiU": "U+1F1ED U+1F1F0",
+    "capitalGeolocation": {
+      "lat": 22.31956,
+      "lng": 114.169718
+    }
+  },
+  {
+    "name": "Hungary",
+    "nativeName": "Magyarország",
+    "capital": "Budapest",
+    "region": "Eastern Europe",
+    "continent": "EUROPE",
+    "abbreviation": "HU",
+    "currency": "Hungarian Forint",
+    "currencyCode": "HUF",
+    "callingCode": 36,
+    "languages": [
+      "Hungarian"
+    ],
+    "population": 9775564,
+    "yearlyAverageTemperature": 9,
+    "flag": "",
+    "emoji": "\uD83C\uDDED\uD83C\uDDFA",
+    "emojiU": "U+1F1ED U+1F1FA",
+    "capitalGeolocation": {
+      "lat": 47.497912,
+      "lng": 19.040235
+    }
+  },
+  {
+    "name": "Iceland",
+    "nativeName": "Ísland",
+    "capital": "Reykjav",
+    "region": "Nordic Countries",
+    "continent": "EUROPE",
+    "abbreviation": "IS",
+    "currency": "Iceland Krona",
+    "currencyCode": "ISK",
+    "callingCode": 354,
+    "languages": [
+      "Icelandic"
+    ],
+    "population": 352721,
+    "yearlyAverageTemperature": 1,
+    "flag": "",
+    "emoji": "\uD83C\uDDEE\uD83C\uDDF8",
+    "emojiU": "U+1F1EE U+1F1F8",
+    "capitalGeolocation": {
+      "lat": 64.12652059999999,
+      "lng": -21.8174393
+    }
+  },
+  {
+    "name": "India",
+    "nativeName": "भारत",
+    "capital": "New Delhi",
+    "region": "Southern and Central Asia",
+    "continent": "ASIA",
+    "abbreviation": "IN",
+    "currency": "Indian Rupee",
+    "currencyCode": "INR",
+    "callingCode": 91,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "population": 1352617328,
+    "yearlyAverageTemperature": 23,
+    "flag": "",
+    "emoji": "\uD83C\uDDEE\uD83C\uDDF3",
+    "emojiU": "U+1F1EE U+1F1F3",
+    "capitalGeolocation": {
+      "lat": 28.6139391,
+      "lng": 77.2090212
+    }
+  },
+  {
+    "name": "Indonesia",
+    "nativeName": "Indonesia",
+    "capital": "Jakarta",
+    "region": "Southeast Asia",
+    "continent": "ASIA",
+    "abbreviation": "ID",
+    "currency": "Indonesian Rupiah",
+    "currencyCode": "IDR",
+    "callingCode": 62,
+    "languages": [
+      "Indonesian"
+    ],
+    "population": 267663435,
+    "yearlyAverageTemperature": 25,
+    "flag": "",
+    "emoji": "\uD83C\uDDEE\uD83C\uDDE9",
+    "emojiU": "U+1F1EE U+1F1E9",
+    "capitalGeolocation": {
+      "lat": -6.2087634,
+      "lng": 106.845599
+    }
+  },
+  {
+    "name": "Iran",
+    "nativeName": "ایران",
+    "capital": "Tehran",
+    "region": "Southern and Central Asia",
+    "continent": "ASIA",
+    "abbreviation": "IR",
+    "currency": "Iranian Rial",
+    "currencyCode": "IRR",
+    "callingCode": 98,
+    "languages": [
+      "Persian"
+    ],
+    "population": 81800269,
+    "yearlyAverageTemperature": 17,
+    "flag": "",
+    "emoji": "\uD83C\uDDEE\uD83C\uDDF7",
+    "emojiU": "U+1F1EE U+1F1F7",
+    "capitalGeolocation": {
+      "lat": 35.6891975,
+      "lng": 51.3889736
+    }
+  },
+  {
+    "name": "Iraq",
+    "nativeName": "العراق",
+    "capital": "Baghdad",
+    "region": "Middle East",
+    "continent": "ASIA",
+    "abbreviation": "IQ",
+    "currency": "Iraqi Dinar",
+    "currencyCode": "IQD",
+    "callingCode": 964,
+    "languages": [
+      "Arabic",
+      "Kurdish"
+    ],
+    "population": 38433600,
+    "yearlyAverageTemperature": 21,
+    "flag": "",
+    "emoji": "\uD83C\uDDEE\uD83C\uDDF6",
+    "emojiU": "U+1F1EE U+1F1F6",
+    "capitalGeolocation": {
+      "lat": 33.3128057,
+      "lng": 44.3614875
+    }
+  },
+  {
+    "name": "Ireland",
+    "nativeName": "Éire",
+    "capital": "Dublin",
+    "region": "British Isles",
+    "continent": "EUROPE",
+    "abbreviation": "IE",
+    "currency": "Euro",
+    "currencyCode": "EUR",
+    "callingCode": 353,
+    "languages": [
+      "English",
+      "Irish"
+    ],
+    "population": 4867309,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDEE\uD83C\uDDEA",
+    "emojiU": "U+1F1EE U+1F1EA",
+    "capitalGeolocation": {
+      "lat": 53.3498053,
+      "lng": -6.2603097
+    }
+  },
+  {
+    "name": "Israel",
+    "nativeName": "יִשְׂרָאֵל",
+    "capital": "Jerusalem",
+    "region": "Middle East",
+    "continent": "ASIA",
+    "abbreviation": "IL",
+    "currency": "Israeli New Shekel",
+    "currencyCode": "ILS",
+    "callingCode": 972,
+    "languages": [
+      "Arabic",
+      "Hebrew"
+    ],
+    "population": 8882800,
+    "yearlyAverageTemperature": 19,
+    "flag": "",
+    "emoji": "\uD83C\uDDEE\uD83C\uDDF1",
+    "emojiU": "U+1F1EE U+1F1F1",
+    "capitalGeolocation": {
+      "lat": 31.768319,
+      "lng": 35.21371
+    }
+  },
+  {
+    "name": "Isle of Man",
+    "nativeName": "Isle of Man",
+    "capital": null,
+    "region": null,
+    "continent": null,
+    "abbreviation": "IM",
+    "currency": null,
+    "currencyCode": null,
+    "callingCode": null,
+    "languages": [
+      "English",
+      "Manx"
+    ],
+    "population": null,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDEE\uD83C\uDDF2",
+    "emojiU": "U+1F1EE U+1F1F2",
+    "capitalGeolocation": {
+      "lat": 54.1523372,
+      "lng": -4.4861228
+    }
+  },
+  {
+    "name": "Italy",
+    "nativeName": "Italia",
+    "capital": "Roma",
+    "region": "Southern Europe",
+    "continent": "EUROPE",
+    "abbreviation": "IT",
+    "currency": "Euro",
+    "currencyCode": "EUR",
+    "callingCode": 39,
+    "languages": [
+      "Italian"
+    ],
+    "population": 60421760,
+    "yearlyAverageTemperature": 13,
+    "flag": "",
+    "emoji": "\uD83C\uDDEE\uD83C\uDDF9",
+    "emojiU": "U+1F1EE U+1F1F9",
+    "capitalGeolocation": {
+      "lat": 41.9027835,
+      "lng": 12.4963655
+    }
+  },
+  {
+    "name": "Jamaica",
+    "nativeName": "Jamaica",
+    "capital": "Kingston",
+    "region": "Caribbean",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "JM",
+    "currency": "Jamaican Dollar",
+    "currencyCode": "JMD",
+    "callingCode": 1876,
+    "languages": [
+      "English"
+    ],
+    "population": 2934855,
+    "yearlyAverageTemperature": 24,
+    "flag": "",
+    "emoji": "\uD83C\uDDEF\uD83C\uDDF2",
+    "emojiU": "U+1F1EF U+1F1F2",
+    "capitalGeolocation": {
+      "lat": 18.0178743,
+      "lng": -76.8099041
+    }
+  },
+  {
+    "name": "Japan",
+    "nativeName": "日本",
+    "capital": "Tokyo",
+    "region": "Eastern Asia",
+    "continent": "ASIA",
+    "abbreviation": "JP",
+    "currency": "Japanese Yen",
+    "currencyCode": "JPY",
+    "callingCode": 81,
+    "languages": [
+      "Japanese"
+    ],
+    "population": 126529100,
+    "yearlyAverageTemperature": 11,
+    "flag": "",
+    "emoji": "\uD83C\uDDEF\uD83C\uDDF5",
+    "emojiU": "U+1F1EF U+1F1F5",
+    "capitalGeolocation": {
+      "lat": 35.7090259,
+      "lng": 139.7319925
+    }
+  },
+  {
+    "name": "Jersey",
+    "nativeName": "Jersey",
+    "capital": null,
+    "region": null,
+    "continent": null,
+    "abbreviation": "JE",
+    "currency": null,
+    "currencyCode": null,
+    "callingCode": null,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "population": null,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDEF\uD83C\uDDEA",
+    "emojiU": "U+1F1EF U+1F1EA",
+    "capitalGeolocation": {
+      "lat": 49.1868225,
+      "lng": -2.1065682
+    }
+  },
+  {
+    "name": "Jordan",
+    "nativeName": "الأردن",
+    "capital": "Amman",
+    "region": "Middle East",
+    "continent": "ASIA",
+    "abbreviation": "JO",
+    "currency": "Jordanian Dinar",
+    "currencyCode": "JOD",
+    "callingCode": 962,
+    "languages": [
+      "Arabic"
+    ],
+    "population": 9956011,
+    "yearlyAverageTemperature": 18,
+    "flag": "",
+    "emoji": "\uD83C\uDDEF\uD83C\uDDF4",
+    "emojiU": "U+1F1EF U+1F1F4",
+    "capitalGeolocation": {
+      "lat": 31.9565783,
+      "lng": 35.9456951
+    }
+  },
+  {
+    "name": "Kazakhstan",
+    "nativeName": "Қазақстан",
+    "capital": "Astana",
+    "region": "Southern and Central Asia",
+    "continent": "ASIA",
+    "abbreviation": "KZ",
+    "currency": null,
+    "currencyCode": "KZT",
+    "callingCode": 7,
+    "languages": [
+      "Kazakh",
+      "Russian"
+    ],
+    "population": 18272430,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF0\uD83C\uDDFF",
+    "emojiU": "U+1F1F0 U+1F1FF",
+    "capitalGeolocation": {
+      "lat": 51.16052269999999,
+      "lng": 71.4703558
+    }
+  },
+  {
+    "name": "Kenya",
+    "nativeName": "Kenya",
+    "capital": "Nairobi",
+    "region": "Eastern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "KE",
+    "currency": "Kenyan Shilling",
+    "currencyCode": "KES",
+    "callingCode": 254,
+    "languages": [
+      "English",
+      "Swahili"
+    ],
+    "population": 51393010,
+    "yearlyAverageTemperature": 24,
+    "flag": "",
+    "emoji": "\uD83C\uDDF0\uD83C\uDDEA",
+    "emojiU": "U+1F1F0 U+1F1EA",
+    "capitalGeolocation": {
+      "lat": -1.2920659,
+      "lng": 36.8219462
+    }
+  },
+  {
+    "name": "Kiribati",
+    "nativeName": "Kiribati",
+    "capital": "Bairiki",
+    "region": "Micronesia",
+    "continent": "OCEANIA",
+    "abbreviation": "KI",
+    "currency": "Australian Dollar",
+    "currencyCode": "AUD",
+    "callingCode": 686,
+    "languages": [
+      "English"
+    ],
+    "population": 115847,
+    "yearlyAverageTemperature": 28,
+    "flag": "",
+    "emoji": "\uD83C\uDDF0\uD83C\uDDEE",
+    "emojiU": "U+1F1F0 U+1F1EE",
+    "capitalGeolocation": {
+      "lat": 1.3290526,
+      "lng": 172.9790528
+    }
+  },
+  {
+    "name": "Kuwait",
+    "nativeName": "الكويت",
+    "capital": "Kuwait",
+    "region": "Middle East",
+    "continent": "ASIA",
+    "abbreviation": "KW",
+    "currency": "Kuwaiti Dinar",
+    "currencyCode": "KWD",
+    "callingCode": 965,
+    "languages": [
+      "Arabic"
+    ],
+    "population": 4137309,
+    "yearlyAverageTemperature": 25,
+    "flag": "",
+    "emoji": "\uD83C\uDDF0\uD83C\uDDFC",
+    "emojiU": "U+1F1F0 U+1F1FC",
+    "capitalGeolocation": {
+      "lat": 29.375859,
+      "lng": 47.9774052
+    }
+  },
+  {
+    "name": "Kyrgyzstan",
+    "nativeName": "Кыргызстан",
+    "capital": "Bishkek",
+    "region": "Southern and Central Asia",
+    "continent": "ASIA",
+    "abbreviation": "KG",
+    "currency": "Som",
+    "currencyCode": "KGS",
+    "callingCode": 996,
+    "languages": [
+      "Russian",
+      "Kyrgyz"
+    ],
+    "population": 6322800,
+    "yearlyAverageTemperature": 1,
+    "flag": "",
+    "emoji": "\uD83C\uDDF0\uD83C\uDDEC",
+    "emojiU": "U+1F1F0 U+1F1EC",
+    "capitalGeolocation": {
+      "lat": 42.8746212,
+      "lng": 74.5697617
+    }
+  },
+  {
+    "name": "Laos",
+    "nativeName": "ສປປລາວ",
+    "capital": "Vientiane",
+    "region": "Southeast Asia",
+    "continent": "ASIA",
+    "abbreviation": "LA",
+    "currency": "Lao Kip",
+    "currencyCode": "LAK",
+    "callingCode": 856,
+    "languages": [
+      "Laotian"
+    ],
+    "population": 7061507,
+    "yearlyAverageTemperature": 22,
+    "flag": "",
+    "emoji": "\uD83C\uDDF1\uD83C\uDDE6",
+    "emojiU": "U+1F1F1 U+1F1E6",
+    "capitalGeolocation": {
+      "lat": 17.9757058,
+      "lng": 102.6331035
+    }
+  },
+  {
+    "name": "Latvia",
+    "nativeName": "Latvija",
+    "capital": "Riga",
+    "region": "Baltic Countries",
+    "continent": "EUROPE",
+    "abbreviation": "LV",
+    "currency": "Latvian Lats",
+    "currencyCode": "LVL",
+    "callingCode": 371,
+    "languages": [
+      "Latvian"
+    ],
+    "population": 1927174,
+    "yearlyAverageTemperature": 5,
+    "flag": "",
+    "emoji": "\uD83C\uDDF1\uD83C\uDDFB",
+    "emojiU": "U+1F1F1 U+1F1FB",
+    "capitalGeolocation": {
+      "lat": 56.9496487,
+      "lng": 24.1051864
+    }
+  },
+  {
+    "name": "Lebanon",
+    "nativeName": "لبنان",
+    "capital": "Beirut",
+    "region": "Middle East",
+    "continent": "ASIA",
+    "abbreviation": "LB",
+    "currency": "Lebanese Pound",
+    "currencyCode": "LBP",
+    "callingCode": 961,
+    "languages": [
+      "Arabic",
+      "French"
+    ],
+    "population": 6848925,
+    "yearlyAverageTemperature": 16,
+    "flag": "",
+    "emoji": "\uD83C\uDDF1\uD83C\uDDE7",
+    "emojiU": "U+1F1F1 U+1F1E7",
+    "capitalGeolocation": {
+      "lat": 33.8886289,
+      "lng": 35.4954794
+    }
+  },
+  {
+    "name": "Lesotho",
+    "nativeName": "Lesotho",
+    "capital": "Maseru",
+    "region": "Southern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "LS",
+    "currency": "Lesotho Loti",
+    "currencyCode": "LSL",
+    "callingCode": 266,
+    "languages": [
+      "Southern Sotho",
+      "English"
+    ],
+    "population": 2108132,
+    "yearlyAverageTemperature": 11,
+    "flag": "",
+    "emoji": "\uD83C\uDDF1\uD83C\uDDF8",
+    "emojiU": "U+1F1F1 U+1F1F8",
+    "capitalGeolocation": {
+      "lat": -29.36321879999999,
+      "lng": 27.5143603
+    }
+  },
+  {
+    "name": "Liberia",
+    "nativeName": "Liberia",
+    "capital": "Monrovia",
+    "region": "Western Africa",
+    "continent": "AFRICA",
+    "abbreviation": "LR",
+    "currency": "Liberian Dollar",
+    "currencyCode": "LRD",
+    "callingCode": 231,
+    "languages": [
+      "English"
+    ],
+    "population": 4818977,
+    "yearlyAverageTemperature": 25,
+    "flag": "",
+    "emoji": "\uD83C\uDDF1\uD83C\uDDF7",
+    "emojiU": "U+1F1F1 U+1F1F7",
+    "capitalGeolocation": {
+      "lat": 6.2907432,
+      "lng": -10.7605239
+    }
+  },
+  {
+    "name": "Libyan Arab Jamahiriya",
+    "nativeName": "‏ليبيا",
+    "capital": "Tripoli",
+    "region": "Northern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "LY",
+    "currency": null,
+    "currencyCode": "LYD",
+    "callingCode": 218,
+    "languages": [
+      "Arabic"
+    ],
+    "population": 6678567,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF1\uD83C\uDDFE",
+    "emojiU": "U+1F1F1 U+1F1FE",
+    "capitalGeolocation": {
+      "lat": 32.8872094,
+      "lng": 13.1913383
+    }
+  },
+  {
+    "name": "Liechtenstein",
+    "nativeName": "Liechtenstein",
+    "capital": "Vaduz",
+    "region": "Western Europe",
+    "continent": "EUROPE",
+    "abbreviation": "LI",
+    "currency": "Swiss Franc",
+    "currencyCode": "CHF",
+    "callingCode": 423,
+    "languages": [
+      "German"
+    ],
+    "population": 37910,
+    "yearlyAverageTemperature": 5,
+    "flag": "",
+    "emoji": "\uD83C\uDDF1\uD83C\uDDEE",
+    "emojiU": "U+1F1F1 U+1F1EE",
+    "capitalGeolocation": {
+      "lat": 47.1410303,
+      "lng": 9.5209277
+    }
+  },
+  {
+    "name": "Lithuania",
+    "nativeName": "Lietuva",
+    "capital": "Vilnius",
+    "region": "Baltic Countries",
+    "continent": "EUROPE",
+    "abbreviation": "LT",
+    "currency": "Lithuanian Litas",
+    "currencyCode": "LTL",
+    "callingCode": 370,
+    "languages": [
+      "Lithuanian"
+    ],
+    "population": 2801543,
+    "yearlyAverageTemperature": 6,
+    "flag": "",
+    "emoji": "\uD83C\uDDF1\uD83C\uDDF9",
+    "emojiU": "U+1F1F1 U+1F1F9",
+    "capitalGeolocation": {
+      "lat": 54.6871555,
+      "lng": 25.2796514
+    }
+  },
+  {
+    "name": "Luxembourg",
+    "nativeName": "Luxembourg",
+    "capital": "Luxembourg [Luxemburg/L",
+    "region": "Western Europe",
+    "continent": "EUROPE",
+    "abbreviation": "LU",
+    "currency": "Euro",
+    "currencyCode": "EUR",
+    "callingCode": 352,
+    "languages": [
+      "French",
+      "Luxembourgish",
+      "German"
+    ],
+    "population": 607950,
+    "yearlyAverageTemperature": 8,
+    "flag": "",
+    "emoji": "\uD83C\uDDF1\uD83C\uDDFA",
+    "emojiU": "U+1F1F1 U+1F1FA",
+    "capitalGeolocation": {
+      "lat": 49.61162100000001,
+      "lng": 6.1319346
+    }
+  },
+  {
+    "name": "Macao",
+    "nativeName": "澳門",
+    "capital": "Macao",
+    "region": "Eastern Asia",
+    "continent": "ASIA",
+    "abbreviation": "MO",
+    "currency": null,
+    "currencyCode": "MOP",
+    "callingCode": 853,
+    "languages": [
+      "Portuguese",
+      "Chinese"
+    ],
+    "population": 631636,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF2\uD83C\uDDF4",
+    "emojiU": "U+1F1F2 U+1F1F4",
+    "capitalGeolocation": {
+      "lat": 22.198745,
+      "lng": 113.543873
+    }
+  },
+  {
+    "name": "North Macedonia",
+    "nativeName": "Северна Македонија",
+    "capital": "Skopje",
+    "region": "Southern Europe",
+    "continent": "EUROPE",
+    "abbreviation": "MK",
+    "currency": "Denar",
+    "currencyCode": "MKD",
+    "callingCode": 389,
+    "languages": [
+      "Macedonian"
+    ],
+    "population": 2084367,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF2\uD83C\uDDF0",
+    "emojiU": "U+1F1F2 U+1F1F0",
+    "capitalGeolocation": {
+      "lat": 41.9973462,
+      "lng": 21.4279956
+    }
+  },
+  {
+    "name": "Madagascar",
+    "nativeName": "Madagasikara",
+    "capital": "Antananarivo",
+    "region": "Eastern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "MG",
+    "currency": "Malagasy Franc",
+    "currencyCode": "MGF",
+    "callingCode": 261,
+    "languages": [
+      "Malagasy",
+      "French"
+    ],
+    "population": 26262368,
+    "yearlyAverageTemperature": 22,
+    "flag": "",
+    "emoji": "\uD83C\uDDF2\uD83C\uDDEC",
+    "emojiU": "U+1F1F2 U+1F1EC",
+    "capitalGeolocation": {
+      "lat": -18.8791902,
+      "lng": 47.5079055
+    }
+  },
+  {
+    "name": "Malawi",
+    "nativeName": "Malawi",
+    "capital": "Lilongwe",
+    "region": "Eastern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "MW",
+    "currency": "Malawi Kwacha",
+    "currencyCode": "MWK",
+    "callingCode": 265,
+    "languages": [
+      "English",
+      "Chichewa"
+    ],
+    "population": 18143315,
+    "yearlyAverageTemperature": 21,
+    "flag": "",
+    "emoji": "\uD83C\uDDF2\uD83C\uDDFC",
+    "emojiU": "U+1F1F2 U+1F1FC",
+    "capitalGeolocation": {
+      "lat": -13.9626121,
+      "lng": 33.7741195
+    }
+  },
+  {
+    "name": "Malaysia",
+    "nativeName": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "region": "Southeast Asia",
+    "continent": "ASIA",
+    "abbreviation": "MY",
+    "currency": "Malaysian Ringgit",
+    "currencyCode": "MYR",
+    "callingCode": 60,
+    "languages": [
+      "Malay"
+    ],
+    "population": 31528585,
+    "yearlyAverageTemperature": 25,
+    "flag": "",
+    "emoji": "\uD83C\uDDF2\uD83C\uDDFE",
+    "emojiU": "U+1F1F2 U+1F1FE",
+    "capitalGeolocation": {
+      "lat": 3.139003,
+      "lng": 101.686855
+    }
+  },
+  {
+    "name": "Maldives",
+    "nativeName": "Maldives",
+    "capital": "Male",
+    "region": "Southern and Central Asia",
+    "continent": "ASIA",
+    "abbreviation": "MV",
+    "currency": "Maldive Rufiyaa",
+    "currencyCode": "MVR",
+    "callingCode": 960,
+    "languages": [
+      "Divehi"
+    ],
+    "population": 515696,
+    "yearlyAverageTemperature": 27,
+    "flag": "",
+    "emoji": "\uD83C\uDDF2\uD83C\uDDFB",
+    "emojiU": "U+1F1F2 U+1F1FB",
+    "capitalGeolocation": {
+      "lat": 4.1754959,
+      "lng": 73.5093474
+    }
+  },
+  {
+    "name": "Mali",
+    "nativeName": "Mali",
+    "capital": "Bamako",
+    "region": "Western Africa",
+    "continent": "AFRICA",
+    "abbreviation": "ML",
+    "currency": "CFA Franc BCEAO",
+    "currencyCode": "XOF",
+    "callingCode": 223,
+    "languages": [
+      "French"
+    ],
+    "population": 19077690,
+    "yearlyAverageTemperature": 28,
+    "flag": "",
+    "emoji": "\uD83C\uDDF2\uD83C\uDDF1",
+    "emojiU": "U+1F1F2 U+1F1F1",
+    "capitalGeolocation": {
+      "lat": 12.6392316,
+      "lng": -8.0028892
+    }
+  },
+  {
+    "name": "Malta",
+    "nativeName": "Malta",
+    "capital": "Valletta",
+    "region": "Southern Europe",
+    "continent": "EUROPE",
+    "abbreviation": "MT",
+    "currency": "Euro",
+    "currencyCode": "EUR",
+    "callingCode": 356,
+    "languages": [
+      "English",
+      "Maltese"
+    ],
+    "population": 484630,
+    "yearlyAverageTemperature": 19,
+    "flag": "",
+    "emoji": "\uD83C\uDDF2\uD83C\uDDF9",
+    "emojiU": "U+1F1F2 U+1F1F9",
+    "capitalGeolocation": {
+      "lat": 35.8989085,
+      "lng": 14.5145528
+    }
+  },
+  {
+    "name": "Marshall Islands",
+    "nativeName": "M̧ajeļ",
+    "capital": "Dalap-Uliga-Darrit",
+    "region": "Micronesia",
+    "continent": "OCEANIA",
+    "abbreviation": "MH",
+    "currency": "US Dollar",
+    "currencyCode": "USD",
+    "callingCode": 692,
+    "languages": [
+      "English",
+      "Marshallese"
+    ],
+    "population": 58413,
+    "yearlyAverageTemperature": 27,
+    "flag": "",
+    "emoji": "\uD83C\uDDF2\uD83C\uDDED",
+    "emojiU": "U+1F1F2 U+1F1ED",
+    "capitalGeolocation": {
+      "lat": 7.1164214,
+      "lng": 171.1857736
+    }
+  },
+  {
+    "name": "Martinique",
+    "nativeName": "Martinique",
+    "capital": "Fort-de-France",
+    "region": "Caribbean",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "MQ",
+    "currency": null,
+    "currencyCode": "EUR",
+    "callingCode": 596,
+    "languages": [
+      "French"
+    ],
+    "population": 376480,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF2\uD83C\uDDF6",
+    "emojiU": "U+1F1F2 U+1F1F6",
+    "capitalGeolocation": {
+      "lat": 14.6160647,
+      "lng": -61.0587804
+    }
+  },
+  {
+    "name": "Mauritania",
+    "nativeName": "موريتانيا",
+    "capital": "Nouakchott",
+    "region": "Western Africa",
+    "continent": "AFRICA",
+    "abbreviation": "MR",
+    "currency": "Mauritanian Ouguiya",
+    "currencyCode": "MRO",
+    "callingCode": 222,
+    "languages": [
+      "Arabic"
+    ],
+    "population": 4403319,
+    "yearlyAverageTemperature": 27,
+    "flag": "",
+    "emoji": "\uD83C\uDDF2\uD83C\uDDF7",
+    "emojiU": "U+1F1F2 U+1F1F7",
+    "capitalGeolocation": {
+      "lat": 18.0735299,
+      "lng": -15.9582372
+    }
+  },
+  {
+    "name": "Mauritius",
+    "nativeName": "Maurice",
+    "capital": "Port-Louis",
+    "region": "Eastern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "MU",
+    "currency": "Mauritius Rupee",
+    "currencyCode": "MUR",
+    "callingCode": 230,
+    "languages": [
+      "English"
+    ],
+    "population": 1265303,
+    "yearlyAverageTemperature": 22,
+    "flag": "",
+    "emoji": "\uD83C\uDDF2\uD83C\uDDFA",
+    "emojiU": "U+1F1F2 U+1F1FA",
+    "capitalGeolocation": {
+      "lat": -20.1668958,
+      "lng": 57.502332
+    }
+  },
+  {
+    "name": "Mayotte",
+    "nativeName": "Mayotte",
+    "capital": "Mamoutzou",
+    "region": "Eastern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "YT",
+    "currency": "Euro",
+    "currencyCode": "EUR",
+    "callingCode": 262,
+    "languages": [
+      "French"
+    ],
+    "population": 270372,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDFE\uD83C\uDDF9",
+    "emojiU": "U+1F1FE U+1F1F9",
+    "capitalGeolocation": {
+      "lat": -12.7809488,
+      "lng": 45.227872
+    }
+  },
+  {
+    "name": "Mexico",
+    "nativeName": "México",
+    "capital": "Ciudad de M",
+    "region": "Central America",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "MX",
+    "currency": "Mexican Nuevo Peso",
+    "currencyCode": "MXN",
+    "callingCode": 52,
+    "languages": [
+      "Spanish"
+    ],
+    "population": 126190788,
+    "yearlyAverageTemperature": 21,
+    "flag": "",
+    "emoji": "\uD83C\uDDF2\uD83C\uDDFD",
+    "emojiU": "U+1F1F2 U+1F1FD",
+    "capitalGeolocation": {
+      "lat": 19.4326077,
+      "lng": -99.133208
+    }
+  },
+  {
+    "name": "Micronesia, Federated States of",
+    "nativeName": "Micronesia",
+    "capital": "Palikir",
+    "region": "Micronesia",
+    "continent": "OCEANIA",
+    "abbreviation": "FM",
+    "currency": null,
+    "currencyCode": "USD",
+    "callingCode": 691,
+    "languages": [
+      "English"
+    ],
+    "population": 112640,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDEB\uD83C\uDDF2",
+    "emojiU": "U+1F1EB U+1F1F2",
+    "capitalGeolocation": {
+      "lat": 6.9147118,
+      "lng": 158.1610274
+    }
+  },
+  {
+    "name": "Moldova",
+    "nativeName": "Moldova",
+    "capital": "Chisinau",
+    "region": "Eastern Europe",
+    "continent": "EUROPE",
+    "abbreviation": "MD",
+    "currency": "Moldovan Leu",
+    "currencyCode": "MDL",
+    "callingCode": 373,
+    "languages": [
+      "Romanian"
+    ],
+    "population": 2706049,
+    "yearlyAverageTemperature": 9,
+    "flag": "",
+    "emoji": "\uD83C\uDDF2\uD83C\uDDE9",
+    "emojiU": "U+1F1F2 U+1F1E9",
+    "capitalGeolocation": {
+      "lat": 47.0104529,
+      "lng": 28.8638103
+    }
+  },
+  {
+    "name": "Monaco",
+    "nativeName": "Monaco",
+    "capital": "Monaco-Ville",
+    "region": "Western Europe",
+    "continent": "EUROPE",
+    "abbreviation": "MC",
+    "currency": null,
+    "currencyCode": "EUR",
+    "callingCode": 377,
+    "languages": [
+      "French"
+    ],
+    "population": 38682,
+    "yearlyAverageTemperature": 13,
+    "flag": "",
+    "emoji": "\uD83C\uDDF2\uD83C\uDDE8",
+    "emojiU": "U+1F1F2 U+1F1E8",
+    "capitalGeolocation": {
+      "lat": 43.73741099999999,
+      "lng": 7.420815999999999
+    }
+  },
+  {
+    "name": "Mongolia",
+    "nativeName": "Монгол улс",
+    "capital": "Ulan Bator",
+    "region": "Eastern Asia",
+    "continent": "ASIA",
+    "abbreviation": "MN",
+    "currency": "Mongolian Tugrik",
+    "currencyCode": "MNT",
+    "callingCode": 976,
+    "languages": [
+      "Mongolian"
+    ],
+    "population": 3170208,
+    "yearlyAverageTemperature": 0,
+    "flag": "",
+    "emoji": "\uD83C\uDDF2\uD83C\uDDF3",
+    "emojiU": "U+1F1F2 U+1F1F3",
+    "capitalGeolocation": {
+      "lat": 47.88639879999999,
+      "lng": 106.9057439
+    }
+  },
+  {
+    "name": "Montserrat",
+    "nativeName": "Montserrat",
+    "capital": "Plymouth",
+    "region": "Caribbean",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "MS",
+    "currency": "East Caribbean Dollar",
+    "currencyCode": "XCD",
+    "callingCode": 1664,
+    "languages": [
+      "English"
+    ],
+    "population": 5900,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF2\uD83C\uDDF8",
+    "emojiU": "U+1F1F2 U+1F1F8",
+    "capitalGeolocation": {
+      "lat": 16.706523,
+      "lng": -62.21573799999999
+    }
+  },
+  {
+    "name": "Montenegro",
+    "nativeName": "Црна Гора",
+    "capital": "Podgorica",
+    "region": null,
+    "continent": "EUROPE",
+    "abbreviation": "ME",
+    "currency": null,
+    "currencyCode": null,
+    "callingCode": null,
+    "languages": [
+      "Albanian",
+      "Bosnian",
+      "Serbian",
+      "Croatian"
+    ],
+    "population": 631219,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF2\uD83C\uDDEA",
+    "emojiU": "U+1F1F2 U+1F1EA",
+    "capitalGeolocation": {
+      "lat": 42.4304196,
+      "lng": 19.2593642
+    }
+  },
+  {
+    "name": "Morocco",
+    "nativeName": "المغرب",
+    "capital": "Rabat",
+    "region": "Northern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "MA",
+    "currency": "Moroccan Dirham",
+    "currencyCode": "MAD",
+    "callingCode": 212,
+    "languages": [
+      "Arabic"
+    ],
+    "population": 36029138,
+    "yearlyAverageTemperature": 17,
+    "flag": "",
+    "emoji": "\uD83C\uDDF2\uD83C\uDDE6",
+    "emojiU": "U+1F1F2 U+1F1E6",
+    "capitalGeolocation": {
+      "lat": 33.9715904,
+      "lng": -6.8498129
+    }
+  },
+  {
+    "name": "Mozambique",
+    "nativeName": "Moçambique",
+    "capital": "Maputo",
+    "region": "Eastern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "MZ",
+    "currency": "Mozambique Metical",
+    "currencyCode": "MZN",
+    "callingCode": 258,
+    "languages": [
+      "Portuguese"
+    ],
+    "population": 29495962,
+    "yearlyAverageTemperature": 23,
+    "flag": "",
+    "emoji": "\uD83C\uDDF2\uD83C\uDDFF",
+    "emojiU": "U+1F1F2 U+1F1FF",
+    "capitalGeolocation": {
+      "lat": -25.891968,
+      "lng": 32.6051351
+    }
+  },
+  {
+    "name": "Myanmar",
+    "nativeName": "မြန်မာ",
+    "capital": "Rangoon (Yangon)",
+    "region": "Southeast Asia",
+    "continent": "ASIA",
+    "abbreviation": "MM",
+    "currency": "Myanmar Kyat",
+    "currencyCode": "MMR",
+    "callingCode": 95,
+    "languages": [
+      "Burmese"
+    ],
+    "population": 53708395,
+    "yearlyAverageTemperature": 13,
+    "flag": "",
+    "emoji": "\uD83C\uDDF2\uD83C\uDDF2",
+    "emojiU": "U+1F1F2 U+1F1F2",
+    "capitalGeolocation": {
+      "lat": 19.7633057,
+      "lng": 96.07851040000001
+    }
+  },
+  {
+    "name": "Namibia",
+    "nativeName": "Namibia",
+    "capital": "Windhoek",
+    "region": "Southern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "NA",
+    "currency": "Namibian Dollar",
+    "currencyCode": "NAD",
+    "callingCode": 264,
+    "languages": [
+      "English",
+      "Afrikaans"
+    ],
+    "population": 2448255,
+    "yearlyAverageTemperature": 19,
+    "flag": "",
+    "emoji": "\uD83C\uDDF3\uD83C\uDDE6",
+    "emojiU": "U+1F1F3 U+1F1E6",
+    "capitalGeolocation": {
+      "lat": -22.5608807,
+      "lng": 17.0657549
+    }
+  },
+  {
+    "name": "Nauru",
+    "nativeName": "Nauru",
+    "capital": "Yaren",
+    "region": "Micronesia",
+    "continent": "OCEANIA",
+    "abbreviation": "NR",
+    "currency": "Australian Dollar",
+    "currencyCode": "AUD",
+    "callingCode": 674,
+    "languages": [
+      "Nauruan",
+      "English"
+    ],
+    "population": 12704,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF3\uD83C\uDDF7",
+    "emojiU": "U+1F1F3 U+1F1F7",
+    "capitalGeolocation": {
+      "lat": -0.5466856999999999,
+      "lng": 166.9210913
+    }
+  },
+  {
+    "name": "Nepal",
+    "nativeName": "नपल",
+    "capital": "Kathmandu",
+    "region": "Southern and Central Asia",
+    "continent": "ASIA",
+    "abbreviation": "NP",
+    "currency": "Nepalese Rupee",
+    "currencyCode": "NPR",
+    "callingCode": 977,
+    "languages": [
+      "Nepali"
+    ],
+    "population": 28087871,
+    "yearlyAverageTemperature": 8,
+    "flag": "",
+    "emoji": "\uD83C\uDDF3\uD83C\uDDF5",
+    "emojiU": "U+1F1F3 U+1F1F5",
+    "capitalGeolocation": {
+      "lat": 27.7172453,
+      "lng": 85.3239605
+    }
+  },
+  {
+    "name": "Netherlands",
+    "nativeName": "Nederland",
+    "capital": "Amsterdam",
+    "region": "Western Europe",
+    "continent": "EUROPE",
+    "abbreviation": "NL",
+    "currency": "Euro",
+    "currencyCode": "EUR",
+    "callingCode": 31,
+    "languages": [
+      "Dutch"
+    ],
+    "population": 17231624,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF3\uD83C\uDDF1",
+    "emojiU": "U+1F1F3 U+1F1F1",
+    "capitalGeolocation": {
+      "lat": 52.3702157,
+      "lng": 4.895167900000001
+    }
+  },
+  {
+    "name": "Netherlands Antilles",
+    "nativeName": null,
+    "capital": "Willemstad",
+    "region": "Caribbean",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "AN",
+    "currency": "Netherlands Antillean Guilder",
+    "currencyCode": "ANG",
+    "callingCode": 599,
+    "languages": [],
+    "population": 227049,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": null,
+    "emojiU": null,
+    "capitalGeolocation": null
+  },
+  {
+    "name": "New Caledonia",
+    "nativeName": "Nouvelle-Calédonie",
+    "capital": "Noum",
+    "region": "Melanesia",
+    "continent": "OCEANIA",
+    "abbreviation": "NC",
+    "currency": null,
+    "currencyCode": "XPF",
+    "callingCode": 687,
+    "languages": [
+      "French"
+    ],
+    "population": 284060,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF3\uD83C\uDDE8",
+    "emojiU": "U+1F1F3 U+1F1E8",
+    "capitalGeolocation": {
+      "lat": -22.2558234,
+      "lng": 166.4505243
+    }
+  },
+  {
+    "name": "New Zealand",
+    "nativeName": "New Zealand",
+    "capital": "Wellington",
+    "region": "Australia and New Zealand",
+    "continent": "OCEANIA",
+    "abbreviation": "NZ",
+    "currency": "New Zealand Dollar",
+    "currencyCode": "NZD",
+    "callingCode": 64,
+    "languages": [
+      "English",
+      "Maori"
+    ],
+    "population": 4841000,
+    "yearlyAverageTemperature": 10,
+    "flag": "",
+    "emoji": "\uD83C\uDDF3\uD83C\uDDFF",
+    "emojiU": "U+1F1F3 U+1F1FF",
+    "capitalGeolocation": {
+      "lat": -41.2864603,
+      "lng": 174.776236
+    }
+  },
+  {
+    "name": "Nicaragua",
+    "nativeName": "Nicaragua",
+    "capital": "Managua",
+    "region": "Central America",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "NI",
+    "currency": "Nicaraguan Cordoba Oro",
+    "currencyCode": "NIO",
+    "callingCode": 505,
+    "languages": [
+      "Spanish"
+    ],
+    "population": 6465513,
+    "yearlyAverageTemperature": 24,
+    "flag": "",
+    "emoji": "\uD83C\uDDF3\uD83C\uDDEE",
+    "emojiU": "U+1F1F3 U+1F1EE",
+    "capitalGeolocation": {
+      "lat": 12.1149926,
+      "lng": -86.2361744
+    }
+  },
+  {
+    "name": "Niger",
+    "nativeName": "Niger",
+    "capital": "Niamey",
+    "region": "Western Africa",
+    "continent": "AFRICA",
+    "abbreviation": "NE",
+    "currency": "CFA Franc BCEAO",
+    "currencyCode": "XOF",
+    "callingCode": 227,
+    "languages": [
+      "French"
+    ],
+    "population": 22442948,
+    "yearlyAverageTemperature": 27,
+    "flag": "",
+    "emoji": "\uD83C\uDDF3\uD83C\uDDEA",
+    "emojiU": "U+1F1F3 U+1F1EA",
+    "capitalGeolocation": {
+      "lat": 13.5115963,
+      "lng": 2.1253854
+    }
+  },
+  {
+    "name": "Nigeria",
+    "nativeName": "Nigeria",
+    "capital": "Abuja",
+    "region": "Western Africa",
+    "continent": "AFRICA",
+    "abbreviation": "NG",
+    "currency": "Nigerian Naira",
+    "currencyCode": "NGN",
+    "callingCode": 234,
+    "languages": [
+      "English"
+    ],
+    "population": 195874740,
+    "yearlyAverageTemperature": 26,
+    "flag": "",
+    "emoji": "\uD83C\uDDF3\uD83C\uDDEC",
+    "emojiU": "U+1F1F3 U+1F1EC",
+    "capitalGeolocation": {
+      "lat": 9.0764785,
+      "lng": 7.398574
+    }
+  },
+  {
+    "name": "Niue",
+    "nativeName": "Niuē",
+    "capital": "Alofi",
+    "region": "Polynesia",
+    "continent": "OCEANIA",
+    "abbreviation": "NU",
+    "currency": "New Zealand Dollar",
+    "currencyCode": "NZD",
+    "callingCode": 683,
+    "languages": [
+      "English"
+    ],
+    "population": 1624,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF3\uD83C\uDDFA",
+    "emojiU": "U+1F1F3 U+1F1FA",
+    "capitalGeolocation": {
+      "lat": -19.0553711,
+      "lng": -169.9178709
+    }
+  },
+  {
+    "name": "Norfolk Island",
+    "nativeName": "Norfolk Island",
+    "capital": "Kingston",
+    "region": "Australia and New Zealand",
+    "continent": "OCEANIA",
+    "abbreviation": "NF",
+    "currency": "Australian Dollar",
+    "currencyCode": "AUD",
+    "callingCode": 672,
+    "languages": [
+      "English"
+    ],
+    "population": 2169,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF3\uD83C\uDDEB",
+    "emojiU": "U+1F1F3 U+1F1EB",
+    "capitalGeolocation": {
+      "lat": -29.0563937,
+      "lng": 167.959588
+    }
+  },
+  {
+    "name": "North Korea",
+    "nativeName": "북한",
+    "capital": "Pyongyang",
+    "region": "Eastern Asia",
+    "continent": "ASIA",
+    "abbreviation": "KP",
+    "currency": "North Korean Won",
+    "currencyCode": "KPW",
+    "callingCode": 850,
+    "languages": [
+      "Korean"
+    ],
+    "population": 25549819,
+    "yearlyAverageTemperature": 5,
+    "flag": "",
+    "emoji": "\uD83C\uDDF0\uD83C\uDDF5",
+    "emojiU": "U+1F1F0 U+1F1F5",
+    "capitalGeolocation": {
+      "lat": 39.0392193,
+      "lng": 125.7625241
+    }
+  },
+  {
+    "name": "Northern Ireland",
+    "nativeName": "United Kingdom",
+    "capital": "Belfast",
+    "region": null,
+    "continent": "EUROPE",
+    "abbreviation": "GB",
+    "currency": null,
+    "currencyCode": "GBP",
+    "callingCode": 44,
+    "languages": [
+      "English"
+    ],
+    "population": 1885400,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDEC\uD83C\uDDE7",
+    "emojiU": "U+1F1EC U+1F1E7",
+    "capitalGeolocation": null
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "nativeName": "Northern Mariana Islands",
+    "capital": "Garapan",
+    "region": "Micronesia",
+    "continent": "OCEANIA",
+    "abbreviation": "MP",
+    "currency": "US Dollar",
+    "currencyCode": "USD",
+    "callingCode": 1670,
+    "languages": [
+      "Chamorro",
+      "English"
+    ],
+    "population": 56882,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF2\uD83C\uDDF5",
+    "emojiU": "U+1F1F2 U+1F1F5",
+    "capitalGeolocation": {
+      "lat": 15.177801,
+      "lng": 145.750967
+    }
+  },
+  {
+    "name": "Norway",
+    "nativeName": "Norge",
+    "capital": "Oslo",
+    "region": "Nordic Countries",
+    "continent": "EUROPE",
+    "abbreviation": "NO",
+    "currency": "Norwegian Krone",
+    "currencyCode": "NOK",
+    "callingCode": 47,
+    "languages": [
+      "Norwegian Bokmål",
+      "Norwegian Nynorsk",
+      "Norwegian"
+    ],
+    "population": 5311916,
+    "yearlyAverageTemperature": 1,
+    "flag": "",
+    "emoji": "\uD83C\uDDF3\uD83C\uDDF4",
+    "emojiU": "U+1F1F3 U+1F1F4",
+    "capitalGeolocation": {
+      "lat": 59.9138688,
+      "lng": 10.7522454
+    }
+  },
+  {
+    "name": "Oman",
+    "nativeName": "عمان",
+    "capital": "Masqat",
+    "region": "Middle East",
+    "continent": "ASIA",
+    "abbreviation": "OM",
+    "currency": "Omani Rial",
+    "currencyCode": "OMR",
+    "callingCode": 968,
+    "languages": [
+      "Arabic"
+    ],
+    "population": 4829483,
+    "yearlyAverageTemperature": 25,
+    "flag": "",
+    "emoji": "\uD83C\uDDF4\uD83C\uDDF2",
+    "emojiU": "U+1F1F4 U+1F1F2",
+    "capitalGeolocation": {
+      "lat": 23.58589,
+      "lng": 58.4059227
+    }
+  },
+  {
+    "name": "Pakistan",
+    "nativeName": "Pakistan",
+    "capital": "Islamabad",
+    "region": "Southern and Central Asia",
+    "continent": "ASIA",
+    "abbreviation": "PK",
+    "currency": "Pakistan Rupee",
+    "currencyCode": "PKR",
+    "callingCode": 92,
+    "languages": [
+      "English",
+      "Urdu"
+    ],
+    "population": 212215030,
+    "yearlyAverageTemperature": 20,
+    "flag": "",
+    "emoji": "\uD83C\uDDF5\uD83C\uDDF0",
+    "emojiU": "U+1F1F5 U+1F1F0",
+    "capitalGeolocation": {
+      "lat": 33.7293882,
+      "lng": 73.0931461
+    }
+  },
+  {
+    "name": "Palau",
+    "nativeName": "Palau",
+    "capital": "Koror",
+    "region": "Micronesia",
+    "continent": "OCEANIA",
+    "abbreviation": "PW",
+    "currency": "US Dollar",
+    "currencyCode": "USD",
+    "callingCode": 680,
+    "languages": [
+      "English"
+    ],
+    "population": 17907,
+    "yearlyAverageTemperature": 27,
+    "flag": "",
+    "emoji": "\uD83C\uDDF5\uD83C\uDDFC",
+    "emojiU": "U+1F1F5 U+1F1FC",
+    "capitalGeolocation": {
+      "lat": 7.5003835,
+      "lng": 134.624289
+    }
+  },
+  {
+    "name": "Palestine",
+    "nativeName": "فلسطين",
+    "capital": "Gaza",
+    "region": "Middle East",
+    "continent": "ASIA",
+    "abbreviation": "PS",
+    "currency": null,
+    "currencyCode": null,
+    "callingCode": 970,
+    "languages": [
+      "Arabic"
+    ],
+    "population": 4569087,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF5\uD83C\uDDF8",
+    "emojiU": "U+1F1F5 U+1F1F8",
+    "capitalGeolocation": {
+      "lat": 31.8980428,
+      "lng": 35.2042714
+    }
+  },
+  {
+    "name": "Panama",
+    "nativeName": "Panamá",
+    "capital": "Ciudad de Panam",
+    "region": "Central America",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "PA",
+    "currency": "Panamanian Balboa",
+    "currencyCode": "PAB",
+    "callingCode": 507,
+    "languages": [
+      "Spanish"
+    ],
+    "population": 4176873,
+    "yearlyAverageTemperature": 25,
+    "flag": "",
+    "emoji": "\uD83C\uDDF5\uD83C\uDDE6",
+    "emojiU": "U+1F1F5 U+1F1E6",
+    "capitalGeolocation": {
+      "lat": 9.1011785,
+      "lng": -79.4028639
+    }
+  },
+  {
+    "name": "Papua New Guinea",
+    "nativeName": "Papua Niugini",
+    "capital": "Port Moresby",
+    "region": "Melanesia",
+    "continent": "OCEANIA",
+    "abbreviation": "PG",
+    "currency": "Papua New Guinea Kina",
+    "currencyCode": "PGK",
+    "callingCode": 675,
+    "languages": [
+      "English"
+    ],
+    "population": 8606316,
+    "yearlyAverageTemperature": 25,
+    "flag": "",
+    "emoji": "\uD83C\uDDF5\uD83C\uDDEC",
+    "emojiU": "U+1F1F5 U+1F1EC",
+    "capitalGeolocation": {
+      "lat": -9.443800399999999,
+      "lng": 147.1802671
+    }
+  },
+  {
+    "name": "Paraguay",
+    "nativeName": "Paraguay",
+    "capital": "Asunci",
+    "region": "South America",
+    "continent": "SOUTH_AMERICA",
+    "abbreviation": "PY",
+    "currency": "Paraguay Guarani",
+    "currencyCode": "PYG",
+    "callingCode": 595,
+    "languages": [
+      "Guarani",
+      "Spanish"
+    ],
+    "population": 6956071,
+    "yearlyAverageTemperature": 23,
+    "flag": "",
+    "emoji": "\uD83C\uDDF5\uD83C\uDDFE",
+    "emojiU": "U+1F1F5 U+1F1FE",
+    "capitalGeolocation": {
+      "lat": -25.2637399,
+      "lng": -57.57592599999999
+    }
+  },
+  {
+    "name": "Peru",
+    "nativeName": "Perú",
+    "capital": "Lima",
+    "region": "South America",
+    "continent": "SOUTH_AMERICA",
+    "abbreviation": "PE",
+    "currency": "Peruvian Nuevo Sol",
+    "currencyCode": "PEN",
+    "callingCode": 51,
+    "languages": [
+      "Spanish"
+    ],
+    "population": 31989256,
+    "yearlyAverageTemperature": 19,
+    "flag": "",
+    "emoji": "\uD83C\uDDF5\uD83C\uDDEA",
+    "emojiU": "U+1F1F5 U+1F1EA",
+    "capitalGeolocation": {
+      "lat": -12.046374,
+      "lng": -77.0427934
+    }
+  },
+  {
+    "name": "Philippines",
+    "nativeName": "Pilipinas",
+    "capital": "Manila",
+    "region": "Southeast Asia",
+    "continent": "ASIA",
+    "abbreviation": "PH",
+    "currency": "Philippine Peso",
+    "currencyCode": "PHP",
+    "callingCode": 63,
+    "languages": [
+      "English"
+    ],
+    "population": 106651922,
+    "yearlyAverageTemperature": 25,
+    "flag": "",
+    "emoji": "\uD83C\uDDF5\uD83C\uDDED",
+    "emojiU": "U+1F1F5 U+1F1ED",
+    "capitalGeolocation": {
+      "lat": 14.5995124,
+      "lng": 120.9842195
+    }
+  },
+  {
+    "name": "Pitcairn",
+    "nativeName": "Pitcairn Islands",
+    "capital": "Adamstown",
+    "region": "Polynesia",
+    "continent": "OCEANIA",
+    "abbreviation": "PN",
+    "currency": null,
+    "currencyCode": "NZD",
+    "callingCode": 64,
+    "languages": [
+      "English"
+    ],
+    "population": 67,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF5\uD83C\uDDF3",
+    "emojiU": "U+1F1F5 U+1F1F3",
+    "capitalGeolocation": {
+      "lat": -25.0662897,
+      "lng": -130.1004636
+    }
+  },
+  {
+    "name": "Poland",
+    "nativeName": "Polska",
+    "capital": "Warszawa",
+    "region": "Eastern Europe",
+    "continent": "EUROPE",
+    "abbreviation": "PL",
+    "currency": "Polish Zloty",
+    "currencyCode": "PLN",
+    "callingCode": 48,
+    "languages": [
+      "Polish"
+    ],
+    "population": 37974750,
+    "yearlyAverageTemperature": 7,
+    "flag": "",
+    "emoji": "\uD83C\uDDF5\uD83C\uDDF1",
+    "emojiU": "U+1F1F5 U+1F1F1",
+    "capitalGeolocation": {
+      "lat": 52.2296756,
+      "lng": 21.0122287
+    }
+  },
+  {
+    "name": "Portugal",
+    "nativeName": "Portugal",
+    "capital": "Lisboa",
+    "region": "Southern Europe",
+    "continent": "EUROPE",
+    "abbreviation": "PT",
+    "currency": "Euro",
+    "currencyCode": "EUR",
+    "callingCode": 351,
+    "languages": [
+      "Portuguese"
+    ],
+    "population": 10283822,
+    "yearlyAverageTemperature": 15,
+    "flag": "",
+    "emoji": "\uD83C\uDDF5\uD83C\uDDF9",
+    "emojiU": "U+1F1F5 U+1F1F9",
+    "capitalGeolocation": {
+      "lat": 38.7222524,
+      "lng": -9.1393366
+    }
+  },
+  {
+    "name": "Puerto Rico",
+    "nativeName": "Puerto Rico",
+    "capital": "San Juan",
+    "region": "Caribbean",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "PR",
+    "currency": "US Dollar",
+    "currencyCode": "USD",
+    "callingCode": 1939,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "population": 3195153,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF5\uD83C\uDDF7",
+    "emojiU": "U+1F1F5 U+1F1F7",
+    "capitalGeolocation": {
+      "lat": 18.4663338,
+      "lng": -66.1057217
+    }
+  },
+  {
+    "name": "Qatar",
+    "nativeName": "قطر",
+    "capital": "Doha",
+    "region": "Middle East",
+    "continent": "ASIA",
+    "abbreviation": "QA",
+    "currency": "Qatari Rial",
+    "currencyCode": "QAR",
+    "callingCode": 974,
+    "languages": [
+      "Arabic"
+    ],
+    "population": 2781677,
+    "yearlyAverageTemperature": 27,
+    "flag": "",
+    "emoji": "\uD83C\uDDF6\uD83C\uDDE6",
+    "emojiU": "U+1F1F6 U+1F1E6",
+    "capitalGeolocation": {
+      "lat": 25.2854473,
+      "lng": 51.53103979999999
+    }
+  },
+  {
+    "name": "Reunion",
+    "nativeName": "La Réunion",
+    "capital": "Saint-Denis",
+    "region": "Eastern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "RE",
+    "currency": null,
+    "currencyCode": "EUR",
+    "callingCode": 262,
+    "languages": [
+      "French"
+    ],
+    "population": 859959,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF7\uD83C\uDDEA",
+    "emojiU": "U+1F1F7 U+1F1EA",
+    "capitalGeolocation": {
+      "lat": -20.882057,
+      "lng": 55.450675
+    }
+  },
+  {
+    "name": "Romania",
+    "nativeName": "România",
+    "capital": "Bucuresti",
+    "region": "Eastern Europe",
+    "continent": "EUROPE",
+    "abbreviation": "RO",
+    "currency": "Romanian New Leu",
+    "currencyCode": "RON",
+    "callingCode": 40,
+    "languages": [
+      "Romanian"
+    ],
+    "population": 19466145,
+    "yearlyAverageTemperature": 8,
+    "flag": "",
+    "emoji": "\uD83C\uDDF7\uD83C\uDDF4",
+    "emojiU": "U+1F1F7 U+1F1F4",
+    "capitalGeolocation": {
+      "lat": 44.4267674,
+      "lng": 26.1025384
+    }
+  },
+  {
+    "name": "Russian Federation",
+    "nativeName": "Россия",
+    "capital": "Moscow",
+    "region": "Eastern Europe",
+    "continent": "EUROPE",
+    "abbreviation": "RU",
+    "currency": null,
+    "currencyCode": "RUB",
+    "callingCode": 7,
+    "languages": [
+      "Russian"
+    ],
+    "population": 144478050,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF7\uD83C\uDDFA",
+    "emojiU": "U+1F1F7 U+1F1FA",
+    "capitalGeolocation": {
+      "lat": 55.755826,
+      "lng": 37.6173
+    }
+  },
+  {
+    "name": "Rwanda",
+    "nativeName": "Rwanda",
+    "capital": "Kigali",
+    "region": "Eastern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "RW",
+    "currency": "Rwanda Franc",
+    "currencyCode": "RWF",
+    "callingCode": 250,
+    "languages": [
+      "English",
+      "French",
+      "Rwandi"
+    ],
+    "population": 12301939,
+    "yearlyAverageTemperature": 17,
+    "flag": "",
+    "emoji": "\uD83C\uDDF7\uD83C\uDDFC",
+    "emojiU": "U+1F1F7 U+1F1FC",
+    "capitalGeolocation": {
+      "lat": -1.9705786,
+      "lng": 30.1044288
+    }
+  },
+  {
+    "name": "Saint Helena",
+    "nativeName": "Saint Helena",
+    "capital": "Jamestown",
+    "region": "Western Africa",
+    "continent": "AFRICA",
+    "abbreviation": "SH",
+    "currency": "St. Helena Pound",
+    "currencyCode": "SHP",
+    "callingCode": 290,
+    "languages": [
+      "English"
+    ],
+    "population": 6600,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF8\uD83C\uDDED",
+    "emojiU": "U+1F1F8 U+1F1ED",
+    "capitalGeolocation": {
+      "lat": -15.9286343,
+      "lng": -5.7151749
+    }
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "nativeName": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "region": "Caribbean",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "KN",
+    "currency": null,
+    "currencyCode": "XCD",
+    "callingCode": 1869,
+    "languages": [
+      "English"
+    ],
+    "population": 52441,
+    "yearlyAverageTemperature": 24,
+    "flag": "",
+    "emoji": "\uD83C\uDDF0\uD83C\uDDF3",
+    "emojiU": "U+1F1F0 U+1F1F3",
+    "capitalGeolocation": {
+      "lat": 17.3026058,
+      "lng": -62.7176924
+    }
+  },
+  {
+    "name": "Saint Lucia",
+    "nativeName": "Saint Lucia",
+    "capital": "Castries",
+    "region": "Caribbean",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "LC",
+    "currency": "East Caribbean Dollar",
+    "currencyCode": "XCD",
+    "callingCode": 1758,
+    "languages": [
+      "English"
+    ],
+    "population": 181889,
+    "yearlyAverageTemperature": 25,
+    "flag": "",
+    "emoji": "\uD83C\uDDF1\uD83C\uDDE8",
+    "emojiU": "U+1F1F1 U+1F1E8",
+    "capitalGeolocation": {
+      "lat": 14.0101094,
+      "lng": -60.98746869999999
+    }
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "nativeName": "Saint-Pierre-et-Miquelon",
+    "capital": "Saint-Pierre",
+    "region": "North America",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "PM",
+    "currency": " Euro",
+    "currencyCode": "EUR",
+    "callingCode": 508,
+    "languages": [
+      "French"
+    ],
+    "population": 5888,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF5\uD83C\uDDF2",
+    "emojiU": "U+1F1F5 U+1F1F2",
+    "capitalGeolocation": {
+      "lat": 46.7758459,
+      "lng": -56.1806363
+    }
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "nativeName": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "region": "Caribbean",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "VC",
+    "currency": "East Caribbean Dollar",
+    "currencyCode": "XCD",
+    "callingCode": 1784,
+    "languages": [
+      "English"
+    ],
+    "population": 110210,
+    "yearlyAverageTemperature": 26,
+    "flag": "",
+    "emoji": "\uD83C\uDDFB\uD83C\uDDE8",
+    "emojiU": "U+1F1FB U+1F1E8",
+    "capitalGeolocation": {
+      "lat": 13.1600249,
+      "lng": -61.2248157
+    }
+  },
+  {
+    "name": "Samoa",
+    "nativeName": "Samoa",
+    "capital": "Apia",
+    "region": "Polynesia",
+    "continent": "OCEANIA",
+    "abbreviation": "WS",
+    "currency": "Samoan Tala",
+    "currencyCode": "WST",
+    "callingCode": 685,
+    "languages": [
+      "Samoan",
+      "English"
+    ],
+    "population": 196130,
+    "yearlyAverageTemperature": 26,
+    "flag": "",
+    "emoji": "\uD83C\uDDFC\uD83C\uDDF8",
+    "emojiU": "U+1F1FC U+1F1F8",
+    "capitalGeolocation": {
+      "lat": -13.8506958,
+      "lng": -171.7513551
+    }
+  },
+  {
+    "name": "San Marino",
+    "nativeName": "San Marino",
+    "capital": "San Marino",
+    "region": "Southern Europe",
+    "continent": "EUROPE",
+    "abbreviation": "SM",
+    "currency": "Euro",
+    "currencyCode": "EUR",
+    "callingCode": 378,
+    "languages": [
+      "Italian"
+    ],
+    "population": 33785,
+    "yearlyAverageTemperature": 11,
+    "flag": "",
+    "emoji": "\uD83C\uDDF8\uD83C\uDDF2",
+    "emojiU": "U+1F1F8 U+1F1F2",
+    "capitalGeolocation": {
+      "lat": 43.9355907,
+      "lng": 12.4472806
+    }
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "nativeName": "São Tomé e Príncipe",
+    "capital": "S",
+    "region": "Central Africa",
+    "continent": "AFRICA",
+    "abbreviation": "ST",
+    "currency": " Dobra",
+    "currencyCode": "STD",
+    "callingCode": 239,
+    "languages": [
+      "Portuguese"
+    ],
+    "population": 211028,
+    "yearlyAverageTemperature": 23,
+    "flag": "",
+    "emoji": "\uD83C\uDDF8\uD83C\uDDF9",
+    "emojiU": "U+1F1F8 U+1F1F9",
+    "capitalGeolocation": {
+      "lat": 0.3301924,
+      "lng": 6.733343
+    }
+  },
+  {
+    "name": "Saudi Arabia",
+    "nativeName": "العربية السعودية",
+    "capital": "Riyadh",
+    "region": "Middle East",
+    "continent": "ASIA",
+    "abbreviation": "SA",
+    "currency": "Saudi Riyal",
+    "currencyCode": "SAR",
+    "callingCode": 966,
+    "languages": [
+      "Arabic"
+    ],
+    "population": 33699947,
+    "yearlyAverageTemperature": 24,
+    "flag": "",
+    "emoji": "\uD83C\uDDF8\uD83C\uDDE6",
+    "emojiU": "U+1F1F8 U+1F1E6",
+    "capitalGeolocation": {
+      "lat": 25.0054482,
+      "lng": 46.544831
+    }
+  },
+  {
+    "name": "Scotland",
+    "nativeName": null,
+    "capital": "Edinburgh",
+    "region": null,
+    "continent": "EUROPE",
+    "abbreviation": null,
+    "currency": null,
+    "currencyCode": "GBP",
+    "callingCode": 44,
+    "languages": [],
+    "population": 5424800,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": null,
+    "emojiU": null,
+    "capitalGeolocation": null
+  },
+  {
+    "name": "Senegal",
+    "nativeName": "Sénégal",
+    "capital": "Dakar",
+    "region": "Western Africa",
+    "continent": "AFRICA",
+    "abbreviation": "SN",
+    "currency": "CFA Franc BCEAO",
+    "currencyCode": "XOF",
+    "callingCode": 221,
+    "languages": [
+      "French"
+    ],
+    "population": 15854360,
+    "yearlyAverageTemperature": 27,
+    "flag": "",
+    "emoji": "\uD83C\uDDF8\uD83C\uDDF3",
+    "emojiU": "U+1F1F8 U+1F1F3",
+    "capitalGeolocation": {
+      "lat": 14.7645042,
+      "lng": -17.3660286
+    }
+  },
+  {
+    "name": "Serbia",
+    "nativeName": "Србија",
+    "capital": "Belgrade",
+    "region": "Central and Southeast Europe",
+    "continent": "EUROPE",
+    "abbreviation": "RS",
+    "currency": "Serbian dinar",
+    "currencyCode": "RSD",
+    "callingCode": 381,
+    "languages": [
+      "Serbian"
+    ],
+    "population": 6963764,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF7\uD83C\uDDF8",
+    "emojiU": "U+1F1F7 U+1F1F8",
+    "capitalGeolocation": {
+      "lat": 44.786568,
+      "lng": 20.4489216
+    }
+  },
+  {
+    "name": "Seychelles",
+    "nativeName": "Seychelles",
+    "capital": "Victoria",
+    "region": "Eastern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "SC",
+    "currency": "Seychelles Rupee",
+    "currencyCode": "SCR",
+    "callingCode": 248,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "population": 96762,
+    "yearlyAverageTemperature": 27,
+    "flag": "",
+    "emoji": "\uD83C\uDDF8\uD83C\uDDE8",
+    "emojiU": "U+1F1F8 U+1F1E8",
+    "capitalGeolocation": {
+      "lat": -4.619143,
+      "lng": 55.4513149
+    }
+  },
+  {
+    "name": "Sierra Leone",
+    "nativeName": "Sierra Leone",
+    "capital": "Freetown",
+    "region": "Western Africa",
+    "continent": "AFRICA",
+    "abbreviation": "SL",
+    "currency": "Sierra Leone Leone",
+    "currencyCode": "SLL",
+    "callingCode": 232,
+    "languages": [
+      "English"
+    ],
+    "population": 7650154,
+    "yearlyAverageTemperature": 26,
+    "flag": "",
+    "emoji": "\uD83C\uDDF8\uD83C\uDDF1",
+    "emojiU": "U+1F1F8 U+1F1F1",
+    "capitalGeolocation": {
+      "lat": 8.4656765,
+      "lng": -13.2317225
+    }
+  },
+  {
+    "name": "Singapore",
+    "nativeName": "Singapore",
+    "capital": "Singapore",
+    "region": "Southeast Asia",
+    "continent": "ASIA",
+    "abbreviation": "SG",
+    "currency": "Singapore Dollar",
+    "currencyCode": "SGD",
+    "callingCode": 65,
+    "languages": [
+      "English",
+      "Chinese",
+      "Malay",
+      "Tamil"
+    ],
+    "population": 5638676,
+    "yearlyAverageTemperature": 26,
+    "flag": "",
+    "emoji": "\uD83C\uDDF8\uD83C\uDDEC",
+    "emojiU": "U+1F1F8 U+1F1EC",
+    "capitalGeolocation": {
+      "lat": 1.3553794,
+      "lng": 103.8677444
+    }
+  },
+  {
+    "name": "Slovakia",
+    "nativeName": "Slovensko",
+    "capital": "Bratislava",
+    "region": "Eastern Europe",
+    "continent": "EUROPE",
+    "abbreviation": "SK",
+    "currency": "Euro",
+    "currencyCode": "EUR",
+    "callingCode": 421,
+    "languages": [
+      "Slovak"
+    ],
+    "population": 5446771,
+    "yearlyAverageTemperature": 6,
+    "flag": "",
+    "emoji": "\uD83C\uDDF8\uD83C\uDDF0",
+    "emojiU": "U+1F1F8 U+1F1F0",
+    "capitalGeolocation": {
+      "lat": 48.1458923,
+      "lng": 17.1071373
+    }
+  },
+  {
+    "name": "Slovenia",
+    "nativeName": "Slovenija",
+    "capital": "Ljubljana",
+    "region": "Southern Europe",
+    "continent": "EUROPE",
+    "abbreviation": "SI",
+    "currency": "Euro",
+    "currencyCode": "EUR",
+    "callingCode": 386,
+    "languages": [
+      "Slovenian"
+    ],
+    "population": 2073894,
+    "yearlyAverageTemperature": 8,
+    "flag": "",
+    "emoji": "\uD83C\uDDF8\uD83C\uDDEE",
+    "emojiU": "U+1F1F8 U+1F1EE",
+    "capitalGeolocation": {
+      "lat": 46.0569465,
+      "lng": 14.5057515
+    }
+  },
+  {
+    "name": "Solomon Islands",
+    "nativeName": "Solomon Islands",
+    "capital": "Honiara",
+    "region": "Melanesia",
+    "continent": "OCEANIA",
+    "abbreviation": "SB",
+    "currency": "Solomon Islands Dollar",
+    "currencyCode": "SBD",
+    "callingCode": 677,
+    "languages": [
+      "English"
+    ],
+    "population": 652858,
+    "yearlyAverageTemperature": 25,
+    "flag": "",
+    "emoji": "\uD83C\uDDF8\uD83C\uDDE7",
+    "emojiU": "U+1F1F8 U+1F1E7",
+    "capitalGeolocation": {
+      "lat": -9.4456381,
+      "lng": 159.9728999
+    }
+  },
+  {
+    "name": "Somalia",
+    "nativeName": "Soomaaliya",
+    "capital": "Mogadishu",
+    "region": "Eastern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "SO",
+    "currency": "Somali Shilling",
+    "currencyCode": "SOS",
+    "callingCode": 252,
+    "languages": [
+      "Arabic",
+      "Somalia"
+    ],
+    "population": 15008154,
+    "yearlyAverageTemperature": 27,
+    "flag": "",
+    "emoji": "\uD83C\uDDF8\uD83C\uDDF4",
+    "emojiU": "U+1F1F8 U+1F1F4",
+    "capitalGeolocation": {
+      "lat": 2.0469343,
+      "lng": 45.3181623
+    }
+  },
+  {
+    "name": "South Africa",
+    "nativeName": "South Africa",
+    "capital": "Pretoria",
+    "region": "Southern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "ZA",
+    "currency": "South African Rand",
+    "currencyCode": "ZAR",
+    "callingCode": 27,
+    "languages": [
+      "Southern Sotho",
+      "English",
+      "South Ndebele",
+      "Xhosa",
+      "Tsonga",
+      "Venda",
+      "Afrikaans",
+      "Swati",
+      "Zulu",
+      "Tswana"
+    ],
+    "population": 57779622,
+    "yearlyAverageTemperature": 17,
+    "flag": "",
+    "emoji": "\uD83C\uDDFF\uD83C\uDDE6",
+    "emojiU": "U+1F1FF U+1F1E6",
+    "capitalGeolocation": {
+      "lat": -25.7478676,
+      "lng": 28.2292712
+    }
+  },
+  {
+    "name": "South Georgia and the South Sandwich Islands",
+    "nativeName": "South Georgia",
+    "capital": "King Edward Point",
+    "region": "Antarctica",
+    "continent": "ANTARCTICA",
+    "abbreviation": "GS",
+    "currency": "Pound Sterling",
+    "currencyCode": "GBP",
+    "callingCode": 500,
+    "languages": [
+      "English"
+    ],
+    "population": 30,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDEC\uD83C\uDDF8",
+    "emojiU": "U+1F1EC U+1F1F8",
+    "capitalGeolocation": {
+      "lat": -54.2832502,
+      "lng": -36.493735
+    }
+  },
+  {
+    "name": "South Korea",
+    "nativeName": "대한민국",
+    "capital": "Seoul",
+    "region": "Eastern Asia",
+    "continent": "ASIA",
+    "abbreviation": "KR",
+    "currency": "Korean Won",
+    "currencyCode": "KRW",
+    "callingCode": 82,
+    "languages": [
+      "Korean"
+    ],
+    "population": 51606633,
+    "yearlyAverageTemperature": 11,
+    "flag": "",
+    "emoji": "\uD83C\uDDF0\uD83C\uDDF7",
+    "emojiU": "U+1F1F0 U+1F1F7",
+    "capitalGeolocation": {
+      "lat": 37.566535,
+      "lng": 126.9779692
+    }
+  },
+  {
+    "name": "South Sudan",
+    "nativeName": "South Sudan",
+    "capital": "Juba",
+    "region": "Eastern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "SS",
+    "currency": "South Sudan Pound",
+    "currencyCode": "SSP",
+    "callingCode": 211,
+    "languages": [
+      "English"
+    ],
+    "population": 10975920,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF8\uD83C\uDDF8",
+    "emojiU": "U+1F1F8 U+1F1F8",
+    "capitalGeolocation": {
+      "lat": 4.859363,
+      "lng": 31.57125
+    }
+  },
+  {
+    "name": "Spain",
+    "nativeName": "España",
+    "capital": "Madrid",
+    "region": "Southern Europe",
+    "continent": "EUROPE",
+    "abbreviation": "ES",
+    "currency": "Euro",
+    "currencyCode": "EUR",
+    "callingCode": 34,
+    "languages": [
+      "Basque",
+      "Occitan",
+      "Catalan",
+      "Spanish",
+      "Galician"
+    ],
+    "population": 46796540,
+    "yearlyAverageTemperature": 13,
+    "flag": "",
+    "emoji": "\uD83C\uDDEA\uD83C\uDDF8",
+    "emojiU": "U+1F1EA U+1F1F8",
+    "capitalGeolocation": {
+      "lat": 40.4167754,
+      "lng": -3.7037902
+    }
+  },
+  {
+    "name": "Sri Lanka",
+    "nativeName": "śrī laṃkāva",
+    "capital": "Colombo",
+    "region": null,
+    "continent": "ASIA",
+    "abbreviation": "LK",
+    "currency": null,
+    "currencyCode": "LKR",
+    "callingCode": null,
+    "languages": [
+      "Sinhalese",
+      "Tamil"
+    ],
+    "population": 21670000,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF1\uD83C\uDDF0",
+    "emojiU": "U+1F1F1 U+1F1F0",
+    "capitalGeolocation": {
+      "lat": 6.9270786,
+      "lng": 79.861243
+    }
+  },
+  {
+    "name": "Sudan",
+    "nativeName": "السودان",
+    "capital": "Khartum",
+    "region": "Northern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "SD",
+    "currency": "Sudanese Pound",
+    "currencyCode": "SDG",
+    "callingCode": 249,
+    "languages": [
+      "English",
+      "Arabic"
+    ],
+    "population": 41801533,
+    "yearlyAverageTemperature": 26,
+    "flag": "",
+    "emoji": "\uD83C\uDDF8\uD83C\uDDE9",
+    "emojiU": "U+1F1F8 U+1F1E9",
+    "capitalGeolocation": {
+      "lat": 15.5006544,
+      "lng": 32.5598994
+    }
+  },
+  {
+    "name": "Suriname",
+    "nativeName": "Suriname",
+    "capital": "Paramaribo",
+    "region": "South America",
+    "continent": "SOUTH_AMERICA",
+    "abbreviation": "SR",
+    "currency": "Surinam Dollar",
+    "currencyCode": "SRD",
+    "callingCode": 597,
+    "languages": [
+      "Dutch"
+    ],
+    "population": 575991,
+    "yearlyAverageTemperature": 25,
+    "flag": "",
+    "emoji": "\uD83C\uDDF8\uD83C\uDDF7",
+    "emojiU": "U+1F1F8 U+1F1F7",
+    "capitalGeolocation": {
+      "lat": 5.8520355,
+      "lng": -55.2038278
+    }
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "nativeName": "Svalbard og Jan Mayen",
+    "capital": "Longyearbyen",
+    "region": "Nordic Countries",
+    "continent": "EUROPE",
+    "abbreviation": "SJ",
+    "currency": null,
+    "currencyCode": "NOK",
+    "callingCode": 47,
+    "languages": [
+      "Norwegian"
+    ],
+    "population": 2572,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF8\uD83C\uDDEF",
+    "emojiU": "U+1F1F8 U+1F1EF",
+    "capitalGeolocation": {
+      "lat": 78.22317220000001,
+      "lng": 15.626723
+    }
+  },
+  {
+    "name": "Swaziland",
+    "nativeName": "Swaziland",
+    "capital": "Mbabane",
+    "region": "Southern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "SZ",
+    "currency": "Swaziland Lilangeni",
+    "currencyCode": "SZL",
+    "callingCode": 268,
+    "languages": [
+      "English",
+      "Swati"
+    ],
+    "population": 1136191,
+    "yearlyAverageTemperature": 21,
+    "flag": "",
+    "emoji": "\uD83C\uDDF8\uD83C\uDDFF",
+    "emojiU": "U+1F1F8 U+1F1FF",
+    "capitalGeolocation": {
+      "lat": -26.400429,
+      "lng": 31.1824925
+    }
+  },
+  {
+    "name": "Sweden",
+    "nativeName": "Sverige",
+    "capital": "Stockholm",
+    "region": "Nordic Countries",
+    "continent": "EUROPE",
+    "abbreviation": "SE",
+    "currency": "Swedish Krona",
+    "currencyCode": "SEK",
+    "callingCode": 46,
+    "languages": [
+      "Swedish"
+    ],
+    "population": 10175214,
+    "yearlyAverageTemperature": 2,
+    "flag": "",
+    "emoji": "\uD83C\uDDF8\uD83C\uDDEA",
+    "emojiU": "U+1F1F8 U+1F1EA",
+    "capitalGeolocation": {
+      "lat": 59.32932349999999,
+      "lng": 18.0685808
+    }
+  },
+  {
+    "name": "Switzerland",
+    "nativeName": "Schweiz",
+    "capital": "Bern",
+    "region": "Western Europe",
+    "continent": "EUROPE",
+    "abbreviation": "CH",
+    "currency": "Swiss Franc",
+    "currencyCode": "CHF",
+    "callingCode": 41,
+    "languages": [
+      "Italian",
+      "French",
+      "German"
+    ],
+    "population": 8513227,
+    "yearlyAverageTemperature": 5,
+    "flag": "",
+    "emoji": "\uD83C\uDDE8\uD83C\uDDED",
+    "emojiU": "U+1F1E8 U+1F1ED",
+    "capitalGeolocation": {
+      "lat": 46.9479739,
+      "lng": 7.4474468
+    }
+  },
+  {
+    "name": "Syria",
+    "nativeName": "سوريا",
+    "capital": "Damascus",
+    "region": "Middle East",
+    "continent": "ASIA",
+    "abbreviation": "SY",
+    "currency": "Syrian Pound",
+    "currencyCode": "SYP",
+    "callingCode": 963,
+    "languages": [
+      "Arabic"
+    ],
+    "population": 16906283,
+    "yearlyAverageTemperature": 17,
+    "flag": "",
+    "emoji": "\uD83C\uDDF8\uD83C\uDDFE",
+    "emojiU": "U+1F1F8 U+1F1FE",
+    "capitalGeolocation": {
+      "lat": 33.5138073,
+      "lng": 36.2765279
+    }
+  },
+  {
+    "name": "Tajikistan",
+    "nativeName": "Тоҷикистон",
+    "capital": "Dushanbe",
+    "region": "Southern and Central Asia",
+    "continent": "ASIA",
+    "abbreviation": "TJ",
+    "currency": "Tajik Somoni",
+    "currencyCode": "TJS",
+    "callingCode": 992,
+    "languages": [
+      "Tajik",
+      "Russian"
+    ],
+    "population": 9100837,
+    "yearlyAverageTemperature": 2,
+    "flag": "",
+    "emoji": "\uD83C\uDDF9\uD83C\uDDEF",
+    "emojiU": "U+1F1F9 U+1F1EF",
+    "capitalGeolocation": {
+      "lat": 38.5597722,
+      "lng": 68.7870384
+    }
+  },
+  {
+    "name": "Tanzania",
+    "nativeName": "Tanzania",
+    "capital": "Dodoma",
+    "region": "Eastern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "TZ",
+    "currency": "Tanzanian Shilling",
+    "currencyCode": "TZS",
+    "callingCode": 255,
+    "languages": [
+      "English",
+      "Swahili"
+    ],
+    "population": 56318348,
+    "yearlyAverageTemperature": 22,
+    "flag": "",
+    "emoji": "\uD83C\uDDF9\uD83C\uDDFF",
+    "emojiU": "U+1F1F9 U+1F1FF",
+    "capitalGeolocation": {
+      "lat": -6.162959000000001,
+      "lng": 35.7516069
+    }
+  },
+  {
+    "name": "Thailand",
+    "nativeName": "ประเทศไทย",
+    "capital": "Bangkok",
+    "region": "Southeast Asia",
+    "continent": "ASIA",
+    "abbreviation": "TH",
+    "currency": "Thai Baht",
+    "currencyCode": "THB",
+    "callingCode": 66,
+    "languages": [
+      "Thai"
+    ],
+    "population": 69428524,
+    "yearlyAverageTemperature": 26,
+    "flag": "",
+    "emoji": "\uD83C\uDDF9\uD83C\uDDED",
+    "emojiU": "U+1F1F9 U+1F1ED",
+    "capitalGeolocation": {
+      "lat": 13.7563309,
+      "lng": 100.5017651
+    }
+  },
+  {
+    "name": "Timor-Leste",
+    "nativeName": "Timor-Leste",
+    "capital": null,
+    "region": null,
+    "continent": null,
+    "abbreviation": "TL",
+    "currency": null,
+    "currencyCode": null,
+    "callingCode": null,
+    "languages": [
+      "Portuguese"
+    ],
+    "population": null,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF9\uD83C\uDDF1",
+    "emojiU": "U+1F1F9 U+1F1F1",
+    "capitalGeolocation": null
+  },
+  {
+    "name": "Togo",
+    "nativeName": "Togo",
+    "capital": "Lomé",
+    "region": "Western Africa",
+    "continent": "AFRICA",
+    "abbreviation": "TG",
+    "currency": "CFA Franc BCEAO",
+    "currencyCode": "XOF",
+    "callingCode": 228,
+    "languages": [
+      "French"
+    ],
+    "population": 7889094,
+    "yearlyAverageTemperature": 27,
+    "flag": "",
+    "emoji": "\uD83C\uDDF9\uD83C\uDDEC",
+    "emojiU": "U+1F1F9 U+1F1EC",
+    "capitalGeolocation": {
+      "lat": 6.1724969,
+      "lng": 1.2313618
+    }
+  },
+  {
+    "name": "Tokelau",
+    "nativeName": "Tokelau",
+    "capital": "Fakaofo",
+    "region": "Polynesia",
+    "continent": "OCEANIA",
+    "abbreviation": "TK",
+    "currency": "New Zealand Dollar",
+    "currencyCode": "NZD",
+    "callingCode": 690,
+    "languages": [
+      "English"
+    ],
+    "population": 1411,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF9\uD83C\uDDF0",
+    "emojiU": "U+1F1F9 U+1F1F0",
+    "capitalGeolocation": {
+      "lat": -9.380255499999999,
+      "lng": -171.2188355
+    }
+  },
+  {
+    "name": "Tonga",
+    "nativeName": "Tonga",
+    "capital": "Nuku'alofa",
+    "region": "Polynesia",
+    "continent": "OCEANIA",
+    "abbreviation": "TO",
+    "currency": "Tongan Pa'anga",
+    "currencyCode": "TOP",
+    "callingCode": 676,
+    "languages": [
+      "English",
+      "Tonga"
+    ],
+    "population": 103197,
+    "yearlyAverageTemperature": 25,
+    "flag": "",
+    "emoji": "\uD83C\uDDF9\uD83C\uDDF4",
+    "emojiU": "U+1F1F9 U+1F1F4",
+    "capitalGeolocation": {
+      "lat": -21.1393418,
+      "lng": -175.204947
+    }
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "nativeName": "Trinidad and Tobago",
+    "capital": "Port-of-Spain",
+    "region": "Caribbean",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "TT",
+    "currency": "Trinidad and Tobago Dollar",
+    "currencyCode": "TTD",
+    "callingCode": 1868,
+    "languages": [
+      "English"
+    ],
+    "population": 1389858,
+    "yearlyAverageTemperature": 25,
+    "flag": "",
+    "emoji": "\uD83C\uDDF9\uD83C\uDDF9",
+    "emojiU": "U+1F1F9 U+1F1F9",
+    "capitalGeolocation": {
+      "lat": 10.6549013,
+      "lng": -61.50192559999999
+    }
+  },
+  {
+    "name": "Tunisia",
+    "nativeName": "تونس",
+    "capital": "Tunis",
+    "region": "Northern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "TN",
+    "currency": "Tunisian Dollar",
+    "currencyCode": "TND",
+    "callingCode": 216,
+    "languages": [
+      "Arabic"
+    ],
+    "population": 11565204,
+    "yearlyAverageTemperature": 19,
+    "flag": "",
+    "emoji": "\uD83C\uDDF9\uD83C\uDDF3",
+    "emojiU": "U+1F1F9 U+1F1F3",
+    "capitalGeolocation": {
+      "lat": 36.8064948,
+      "lng": 10.1815316
+    }
+  },
+  {
+    "name": "Turkey",
+    "nativeName": "Türkiye",
+    "capital": "Ankara",
+    "region": "Middle East",
+    "continent": "ASIA",
+    "abbreviation": "TR",
+    "currency": "Turkish Lira",
+    "currencyCode": "TRY",
+    "callingCode": 90,
+    "languages": [
+      "Turkish"
+    ],
+    "population": 82319724,
+    "yearlyAverageTemperature": 11,
+    "flag": "",
+    "emoji": "\uD83C\uDDF9\uD83C\uDDF7",
+    "emojiU": "U+1F1F9 U+1F1F7",
+    "capitalGeolocation": {
+      "lat": 39.9333635,
+      "lng": 32.8597419
+    }
+  },
+  {
+    "name": "Turkmenistan",
+    "nativeName": "Türkmenistan",
+    "capital": "Ashgabat",
+    "region": "Southern and Central Asia",
+    "continent": "ASIA",
+    "abbreviation": "TM",
+    "currency": "Manat",
+    "currencyCode": "TMT",
+    "callingCode": 993,
+    "languages": [
+      "Russian",
+      "Turkmen"
+    ],
+    "population": 5850908,
+    "yearlyAverageTemperature": 15,
+    "flag": "",
+    "emoji": "\uD83C\uDDF9\uD83C\uDDF2",
+    "emojiU": "U+1F1F9 U+1F1F2",
+    "capitalGeolocation": {
+      "lat": 37.9600766,
+      "lng": 58.32606289999999
+    }
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "nativeName": "Turks and Caicos Islands",
+    "capital": "Cockburn Town",
+    "region": "Caribbean",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "TC",
+    "currency": null,
+    "currencyCode": "USD",
+    "callingCode": 1649,
+    "languages": [
+      "English"
+    ],
+    "population": 37665,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDF9\uD83C\uDDE8",
+    "emojiU": "U+1F1F9 U+1F1E8",
+    "capitalGeolocation": {
+      "lat": 21.4674584,
+      "lng": -71.13891009999999
+    }
+  },
+  {
+    "name": "Tuvalu",
+    "nativeName": "Tuvalu",
+    "capital": "Funafuti",
+    "region": "Polynesia",
+    "continent": "OCEANIA",
+    "abbreviation": "TV",
+    "currency": "Australian Dollar",
+    "currencyCode": "AUD",
+    "callingCode": 688,
+    "languages": [
+      "English"
+    ],
+    "population": 11508,
+    "yearlyAverageTemperature": 28,
+    "flag": "",
+    "emoji": "\uD83C\uDDF9\uD83C\uDDFB",
+    "emojiU": "U+1F1F9 U+1F1FB",
+    "capitalGeolocation": {
+      "lat": -8.5200657,
+      "lng": 179.198128
+    }
+  },
+  {
+    "name": "Uganda",
+    "nativeName": "Uganda",
+    "capital": "Kampala",
+    "region": "Eastern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "UG",
+    "currency": "Uganda Shilling",
+    "currencyCode": "UGX",
+    "callingCode": 256,
+    "languages": [
+      "English",
+      "Swahili"
+    ],
+    "population": 42723139,
+    "yearlyAverageTemperature": 22,
+    "flag": "",
+    "emoji": "\uD83C\uDDFA\uD83C\uDDEC",
+    "emojiU": "U+1F1FA U+1F1EC",
+    "capitalGeolocation": {
+      "lat": 0.3475964,
+      "lng": 32.5825197
+    }
+  },
+  {
+    "name": "Ukraine",
+    "nativeName": "Україна",
+    "capital": "Kyiv",
+    "region": "Eastern Europe",
+    "continent": "EUROPE",
+    "abbreviation": "UA",
+    "currency": "Ukraine Hryvnia",
+    "currencyCode": "UAH",
+    "callingCode": 380,
+    "languages": [
+      "Ukrainian"
+    ],
+    "population": 44622516,
+    "yearlyAverageTemperature": 8,
+    "flag": "",
+    "emoji": "\uD83C\uDDFA\uD83C\uDDE6",
+    "emojiU": "U+1F1FA U+1F1E6",
+    "capitalGeolocation": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    }
+  },
+  {
+    "name": "United Arab Emirates",
+    "nativeName": "دولة الإمارات العربية المتحدة",
+    "capital": "Abu Dhabi",
+    "region": "Middle East",
+    "continent": "ASIA",
+    "abbreviation": "AE",
+    "currency": "Arab Emirates Dirham",
+    "currencyCode": "AED",
+    "callingCode": 971,
+    "languages": [
+      "Arabic"
+    ],
+    "population": 9630959,
+    "yearlyAverageTemperature": 27,
+    "flag": "",
+    "emoji": "\uD83C\uDDE6\uD83C\uDDEA",
+    "emojiU": "U+1F1E6 U+1F1EA",
+    "capitalGeolocation": {
+      "lat": 24.2991738,
+      "lng": 54.6972774
+    }
+  },
+  {
+    "name": "United Kingdom",
+    "nativeName": "United Kingdom",
+    "capital": "London",
+    "region": "British Isles",
+    "continent": "EUROPE",
+    "abbreviation": "UK",
+    "currency": "Great Britain Pound",
+    "currencyCode": "GBP",
+    "callingCode": 44,
+    "languages": [
+      "English"
+    ],
+    "population": 66460344,
+    "yearlyAverageTemperature": 8,
+    "flag": "",
+    "emoji": "\uD83C\uDDEC\uD83C\uDDE7",
+    "emojiU": "U+1F1EC U+1F1E7",
+    "capitalGeolocation": {
+      "lat": 51.5073509,
+      "lng": -0.1277583
+    }
+  },
+  {
+    "name": "United States",
+    "nativeName": "United States",
+    "capital": "Washington",
+    "region": "North America",
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "US",
+    "currency": "United States Dollar",
+    "currencyCode": "USD",
+    "callingCode": 1,
+    "languages": [
+      "English"
+    ],
+    "population": 326687501,
+    "yearlyAverageTemperature": 8,
+    "flag": "",
+    "emoji": "\uD83C\uDDFA\uD83C\uDDF8",
+    "emojiU": "U+1F1FA U+1F1F8",
+    "capitalGeolocation": {
+      "lat": 38.9071923,
+      "lng": -77.0368707
+    }
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "nativeName": "United States Minor Outlying Islands",
+    "capital": null,
+    "region": "Micronesia/Caribbean",
+    "continent": "OCEANIA",
+    "abbreviation": "UM",
+    "currency": null,
+    "currencyCode": "USD",
+    "callingCode": 1,
+    "languages": [
+      "English"
+    ],
+    "population": 300,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDFA\uD83C\uDDF2",
+    "emojiU": "U+1F1FA U+1F1F2",
+    "capitalGeolocation": {
+      "lat": 19.2823192,
+      "lng": 166.647047
+    }
+  },
+  {
+    "name": "Uruguay",
+    "nativeName": "Uruguay",
+    "capital": "Montevideo",
+    "region": "South America",
+    "continent": "SOUTH_AMERICA",
+    "abbreviation": "UY",
+    "currency": "Uruguayan Peso",
+    "currencyCode": "UYU",
+    "callingCode": 598,
+    "languages": [
+      "Spanish"
+    ],
+    "population": 3449299,
+    "yearlyAverageTemperature": 17,
+    "flag": "",
+    "emoji": "\uD83C\uDDFA\uD83C\uDDFE",
+    "emojiU": "U+1F1FA U+1F1FE",
+    "capitalGeolocation": {
+      "lat": -34.9011127,
+      "lng": -56.16453139999999
+    }
+  },
+  {
+    "name": "Uzbekistan",
+    "nativeName": "O‘zbekiston",
+    "capital": "Toskent",
+    "region": "Southern and Central Asia",
+    "continent": "ASIA",
+    "abbreviation": "UZ",
+    "currency": "Uzbekistan Sum",
+    "currencyCode": "UZS",
+    "callingCode": 998,
+    "languages": [
+      "Russian",
+      "Uzbek"
+    ],
+    "population": 32955400,
+    "yearlyAverageTemperature": 12,
+    "flag": "",
+    "emoji": "\uD83C\uDDFA\uD83C\uDDFF",
+    "emojiU": "U+1F1FA U+1F1FF",
+    "capitalGeolocation": {
+      "lat": 41.2994958,
+      "lng": 69.2400734
+    }
+  },
+  {
+    "name": "Vanuatu",
+    "nativeName": "Vanuatu",
+    "capital": "Port-Vila",
+    "region": "Melanesia",
+    "continent": "OCEANIA",
+    "abbreviation": "VU",
+    "currency": "Vanuatu Vatu",
+    "currencyCode": "VUV",
+    "callingCode": 678,
+    "languages": [
+      "English",
+      "French",
+      "Bislama"
+    ],
+    "population": 292680,
+    "yearlyAverageTemperature": 23,
+    "flag": "",
+    "emoji": "\uD83C\uDDFB\uD83C\uDDFA",
+    "emojiU": "U+1F1FB U+1F1FA",
+    "capitalGeolocation": {
+      "lat": -17.7332512,
+      "lng": 168.3273245
+    }
+  },
+  {
+    "name": "Venezuela",
+    "nativeName": "Venezuela",
+    "capital": "Caracas",
+    "region": "South America",
+    "continent": "SOUTH_AMERICA",
+    "abbreviation": "VE",
+    "currency": "Venezuelan Bolivar",
+    "currencyCode": "VEF",
+    "callingCode": 58,
+    "languages": [
+      "Spanish"
+    ],
+    "population": 28870195,
+    "yearlyAverageTemperature": 25,
+    "flag": "",
+    "emoji": "\uD83C\uDDFB\uD83C\uDDEA",
+    "emojiU": "U+1F1FB U+1F1EA",
+    "capitalGeolocation": {
+      "lat": 10.4805937,
+      "lng": -66.90360629999999
+    }
+  },
+  {
+    "name": "Vietnam",
+    "nativeName": "Việt Nam",
+    "capital": "Hanoi",
+    "region": "Southeast Asia",
+    "continent": "ASIA",
+    "abbreviation": "VN",
+    "currency": "Vietnamese Dong",
+    "currencyCode": "VND",
+    "callingCode": 84,
+    "languages": [
+      "Vietnamese"
+    ],
+    "population": 95540395,
+    "yearlyAverageTemperature": 24,
+    "flag": "",
+    "emoji": "\uD83C\uDDFB\uD83C\uDDF3",
+    "emojiU": "U+1F1FB U+1F1F3",
+    "capitalGeolocation": {
+      "lat": 21.0277644,
+      "lng": 105.8341598
+    }
+  },
+  {
+    "name": "Virgin Islands, British",
+    "nativeName": "British Virgin Islands",
+    "capital": "Road Town",
+    "region": null,
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "VG",
+    "currency": null,
+    "currencyCode": "USD",
+    "callingCode": 1,
+    "languages": [
+      "English"
+    ],
+    "population": 29802,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDFB\uD83C\uDDEC",
+    "emojiU": "U+1F1FB U+1F1EC",
+    "capitalGeolocation": {
+      "lat": 18.4286115,
+      "lng": -64.6184657
+    }
+  },
+  {
+    "name": "Virgin Islands, U.S.",
+    "nativeName": "United States Virgin Islands",
+    "capital": "Charlotte Amalie",
+    "region": null,
+    "continent": "NORTH_AMERICA",
+    "abbreviation": "VI",
+    "currency": null,
+    "currencyCode": "USD",
+    "callingCode": 1,
+    "languages": [
+      "English"
+    ],
+    "population": 106977,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDFB\uD83C\uDDEE",
+    "emojiU": "U+1F1FB U+1F1EE",
+    "capitalGeolocation": null
+  },
+  {
+    "name": "Wales",
+    "nativeName": null,
+    "capital": "Cardiff",
+    "region": null,
+    "continent": "EUROPE",
+    "abbreviation": null,
+    "currency": null,
+    "currencyCode": "GBP",
+    "callingCode": 44,
+    "languages": [],
+    "population": 3139000,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": null,
+    "emojiU": null,
+    "capitalGeolocation": null
+  },
+  {
+    "name": "Wallis and Futuna",
+    "nativeName": "Wallis et Futuna",
+    "capital": "Mata-Utu",
+    "region": "Polynesia",
+    "continent": "OCEANIA",
+    "abbreviation": "WF",
+    "currency": null,
+    "currencyCode": "XPF",
+    "callingCode": 681,
+    "languages": [
+      "French"
+    ],
+    "population": 15289,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDFC\uD83C\uDDEB",
+    "emojiU": "U+1F1FC U+1F1EB",
+    "capitalGeolocation": {
+      "lat": -13.2825091,
+      "lng": -176.1764475
+    }
+  },
+  {
+    "name": "Western Sahara",
+    "nativeName": "الصحراء الغربية",
+    "capital": "El-Aai",
+    "region": "Northern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "EH",
+    "currency": "Moroccan Dirham",
+    "currencyCode": "MAD",
+    "callingCode": 212,
+    "languages": [
+      "Spanish"
+    ],
+    "population": 652271,
+    "yearlyAverageTemperature": null,
+    "flag": "",
+    "emoji": "\uD83C\uDDEA\uD83C\uDDED",
+    "emojiU": "U+1F1EA U+1F1ED",
+    "capitalGeolocation": {
+      "lat": 26.7599542,
+      "lng": -12.989615
+    }
+  },
+  {
+    "name": "Yemen",
+    "nativeName": "اليَمَن",
+    "capital": "Sanaa",
+    "region": "Middle East",
+    "continent": "ASIA",
+    "abbreviation": "YE",
+    "currency": "Yemeni Rial",
+    "currencyCode": "YER",
+    "callingCode": 967,
+    "languages": [
+      "Arabic"
+    ],
+    "population": 28498687,
+    "yearlyAverageTemperature": 23,
+    "flag": "",
+    "emoji": "\uD83C\uDDFE\uD83C\uDDEA",
+    "emojiU": "U+1F1FE U+1F1EA",
+    "capitalGeolocation": {
+      "lat": 15.3694451,
+      "lng": 44.1910066
+    }
+  },
+  {
+    "name": "Zambia",
+    "nativeName": "Zambia",
+    "capital": "Lusaka",
+    "region": "Eastern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "ZM",
+    "currency": "Zambian Kwacha",
+    "currencyCode": "ZMW",
+    "callingCode": 260,
+    "languages": [
+      "English"
+    ],
+    "population": 17351822,
+    "yearlyAverageTemperature": 21,
+    "flag": "",
+    "emoji": "\uD83C\uDDFF\uD83C\uDDF2",
+    "emojiU": "U+1F1FF U+1F1F2",
+    "capitalGeolocation": {
+      "lat": -15.3875259,
+      "lng": 28.3228165
+    }
+  },
+  {
+    "name": "Zimbabwe",
+    "nativeName": "Zimbabwe",
+    "capital": "Harare",
+    "region": "Eastern Africa",
+    "continent": "AFRICA",
+    "abbreviation": "ZW",
+    "currency": "Zimbabwe Dollar",
+    "currencyCode": "ZWD",
+    "callingCode": 263,
+    "languages": [
+      "English",
+      "North Ndebele",
+      "Shona"
+    ],
+    "population": 14439018,
+    "yearlyAverageTemperature": 21,
+    "flag": "",
+    "emoji": "\uD83C\uDDFF\uD83C\uDDFC",
+    "emojiU": "U+1F1FF U+1F1FC",
+    "capitalGeolocation": {
+      "lat": -17.8251657,
+      "lng": 31.03351
+    }
+  }
+]
